@@ -1,0 +1,969 @@
+company,industry,stage,funds_raised,region,recency,events_deviation,recency_deviation,layoff_events_category,funds_raised_binned
+Calibrate,Healthcare,Series B,127.0,North America,3,-0.26041666666666674,0.40625,once,small
+Veho,Logistics,Series B,299.0,North America,1,-0.19999999999999996,-2.0,once,medium
+iFit,Fitness,Private Equity,200.0,North America,3,-0.3076923076923077,-0.7692307692307692,once,medium
+Boost,Finance,Series B,37.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,tiny
+Redesign Health,Healthcare,Series C,315.0,North America,3,-0.26041666666666674,0.40625,once,medium
+TravelTriangle,Travel,Series D,47.0,Asia,5,-0.43333333333333335,1.2999999999999998,once,tiny
+Grubhub,Food,Acquired,284.0,North America,2,0.6212121212121211,-0.9090909090909092,twice,medium
+Unity,Other,Post-IPO,1300.0,North America,3,3.6301369863013697,0.9315068493150687,four_plus,large
+Bitwise,Crypto,Series B,84.0,North America,2,-0.26190476190476186,-0.2857142857142856,once,small
+BitTitan,Data,Acquired,46.0,North America,4,-0.2195121951219512,1.048780487804878,once,tiny
+Peerspace,Real Estate,Series B,34.0,North America,5,-0.39473684210526305,1.473684210526316,once,tiny
+Kickstarter,Finance,Unknown,10.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Superhuman,Consumer,Series C,108.0,North America,3,-0.3833333333333333,0.5166666666666666,once,small
+Hireology,Recruiting,Series D,52.0,North America,5,-0.47058823529411775,1.3529411764705883,once,tiny
+Pacaso,Real Estate,Series C,217.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,medium
+Aura,Security,Series F,500.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+Transfix,Logistics,Series D,128.0,North America,5,-0.19999999999999996,2.0,once,small
+Navi,Finance,Private Equity,582.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,large
+Crejo.Fun,Education,Seed,3.0,Asia,3,-0.5277777777777777,0.13888888888888884,once,tiny
+Clearco,Finance,Series C,681.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,large
+Snyk,Security,Series F,849.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+Brave,Consumer,Series B,42.0,North America,1,-0.3833333333333333,-1.4833333333333334,once,tiny
+Foodsby,Food,Series B,20.0,North America,5,-0.3787878787878789,2.090909090909091,once,tiny
+Tonal,Fitness,Series E,450.0,North America,3,-0.3076923076923077,-0.7692307692307692,once,medium
+Spinny,Transportation,Series E,513.0,Asia,2,-0.45833333333333326,-0.9444444444444446,once,large
+SolarEdge,Energy,Post-IPO,155.0,Asia,1,0.7692307692307692,-0.6923076923076923,twice,small
+Turo,Transportation,Series E,467.0,North America,0,0.5416666666666667,-2.9444444444444446,twice,medium
+Pico Interactive,Other,Acquired,62.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+Pandion,Logistics,Series B,76.0,North America,0,-0.19999999999999996,-3.0,once,small
+Absci,Healthcare,Post-IPO,238.0,North America,2,-0.26041666666666674,-0.59375,once,medium
+Outside,Media,Series B,174.0,North America,3,-0.4358974358974359,0.3333333333333335,once,medium
+Synergysuite,Food,Series A,6.0,North America,5,-0.3787878787878789,2.090909090909091,once,tiny
+Hodinkee,Retail,Seed,40.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,tiny
+Cybereason,Security,Series F,750.0,North America,3,0.7818181818181817,0.8363636363636364,twice,large
+Smartsheet,Other,Post-IPO,152.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+Nevro,Healthcare,Post-IPO,556.0,North America,1,-0.26041666666666674,-1.59375,once,large
+Veev,Real Estate,Series D,597.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,large
+Button,Marketing,Series C,64.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+Zilingo,Retail,Series D,307.0,Asia,5,0.6702127659574468,2.117021276595745,twice,medium
+Bumble,Consumer,Post-IPO,313.0,North America,0,0.6166666666666667,-2.4833333333333334,twice,medium
+Chief,Other,Series B,140.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+JetClosing,Real Estate,Series A,24.0,North America,5,-0.39473684210526305,1.473684210526316,once,tiny
+Yotpo,Marketing,Unknown,436.0,North America,0,0.7142857142857142,-3.1818181818181817,twice,medium
+BounceX,Marketing,Series B,75.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+Electric,Other,Series D,212.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,medium
+Misfits Market,Food,Series C,526.0,North America,2,-0.3787878787878789,-0.9090909090909092,once,large
+Andela,Recruiting,Series D,181.0,North America,5,-0.47058823529411775,1.3529411764705883,once,medium
+Bungie,Consumer,Acquired,100.0,North America,1,-0.3833333333333333,-1.4833333333333334,once,small
+Lendingkart,Finance,Unknown,200.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,medium
+Arrive Logistics,Logistics,Series B,35.0,North America,5,-0.19999999999999996,2.0,once,tiny
+Highspot,Sales,Series F,644.0,North America,2,0.5833333333333333,-0.4166666666666665,twice,large
+Outreach,Sales,Series G,489.0,North America,3,1.5833333333333333,0.5833333333333335,thrice,large
+Food52,Food,Acquired,176.0,North America,3,0.6212121212121211,0.09090909090909083,twice,medium
+Acast,Media,Post-IPO,126.0,Europe,3,-0.4358974358974359,0.3333333333333335,once,small
+Humane,Hardware,Series C,230.0,North America,1,-0.16666666666666674,-0.33333333333333326,once,medium
+Mainstreet,Finance,Series A,64.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+Simpl,Finance,Series B,72.0,Asia,1,0.7098765432098766,-2.006172839506173,twice,small
+Altruist,Finance,Series E,449.0,North America,0,0.7098765432098766,-3.006172839506173,twice,medium
+Elementor,Media,Unknown,65.0,Asia,3,-0.4358974358974359,0.3333333333333335,once,small
+Kraken,Crypto,Unknown,134.0,North America,3,0.7380952380952381,0.7142857142857144,twice,small
+Clutch,Transportation,Series B,153.0,North America,3,-0.45833333333333326,0.05555555555555536,once,small
+Symend,Other,Series C,148.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+View,Other,Post-IPO,2300.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,large
+Grabango,Food,Unknown,94.0,North America,2,-0.3787878787878789,-0.9090909090909092,once,small
+AU10TIX,Security,Unknown,80.0,Asia,2,-0.21818181818181825,-0.16363636363636358,once,small
+Rad Power Bikes,Transportation,Series D,329.0,North America,3,0.5416666666666667,0.05555555555555536,twice,medium
+Orca Security,Security,Series C,632.0,Asia,1,-0.21818181818181825,-1.1636363636363636,once,large
+Clarify Health,Healthcare,Series D,328.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Guardant Health,Healthcare,Post-IPO,550.0,North America,2,-0.26041666666666674,-0.59375,once,large
+Dapper Labs,Crypto,Series D,607.0,North America,3,-0.26190476190476186,0.7142857142857144,once,large
+EverC,Security,Unknown,61.0,Asia,1,-0.21818181818181825,-1.1636363636363636,once,tiny
+Divergent 3D,Transportation,Series B,88.0,North America,5,-0.45833333333333326,2.0555555555555554,once,small
+Bridgit,Construction,Series B,36.0,North America,3,-0.5,-1.0,once,tiny
+Alto Pharmacy,Healthcare,Series D,356.0,North America,5,-0.26041666666666674,2.40625,once,medium
+Nikola,Transportation,Post-IPO,3300.0,North America,1,-0.45833333333333326,-1.9444444444444446,once,large
+Breather,Real Estate,Series D,131.0,North America,5,-0.39473684210526305,1.473684210526316,once,small
+First Mode,Transportation,Acquired,9.0,North America,1,-0.45833333333333326,-1.9444444444444446,once,tiny
+Rasa,Data,Series B,40.0,Europe,3,-0.2195121951219512,0.04878048780487809,once,tiny
+CityMall,Retail,Series C,112.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,small
+Dealtale,Sales,Acquired,2.0,Asia,2,-0.41666666666666674,-0.4166666666666665,once,tiny
+Cazoo,Transportation,Post-IPO,2000.0,Europe,3,0.5416666666666667,0.05555555555555536,twice,large
+Karma,Retail,Series A,34.0,Asia,2,-0.32978723404255317,-0.8829787234042552,once,tiny
+GoSpotCheck,Retail,Series B,47.0,North America,5,-0.32978723404255317,2.117021276595745,once,tiny
+TaskUs,Support,Post-IPO,279.0,North America,3,-0.5294117647058822,0.0588235294117645,once,medium
+Worksmith,Retail,Unknown,3.8,North America,5,-0.32978723404255317,2.117021276595745,once,tiny
+Borrowell,Finance,Series B,72.0,North America,5,-0.2901234567901234,1.9938271604938271,once,small
+ChowNow,Food,Series C,64.0,North America,3,1.621212121212121,0.09090909090909083,thrice,small
+The Good Glamm Group,Retail,Unknown,180.0,Asia,1,-0.32978723404255317,-1.8829787234042552,once,medium
+Superpedestrian,Transportation,Series C,261.0,North America,3,-0.45833333333333326,0.05555555555555536,once,medium
+Course Hero,Education,Series C,477.0,North America,2,-0.5277777777777777,-0.8611111111111112,once,large
+Impossible Foods,Food,Series H,1900.0,North America,3,-0.3787878787878789,0.09090909090909083,once,large
+Zwift,Fitness,Series C,619.0,North America,2,-0.3076923076923077,-1.7692307692307692,once,large
+Glassdoor,HR,Acquired,204.0,North America,5,0.7941176470588236,1.7647058823529411,twice,medium
+&Open,Marketing,Series A,35.0,Europe,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+AdRoll,Marketing,Series C,89.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+Brightcove,Marketing,Acquired,145.0,North America,2,0.7142857142857142,-1.1818181818181817,twice,small
+Zoox,Transportation,Series B,955.0,North America,5,-0.45833333333333326,2.0555555555555554,once,large
+ClearCo,Finance,Series C,698.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+SafeGraph,Data,Series B,61.0,North America,3,-0.2195121951219512,0.04878048780487809,once,tiny
+Primer,Finance,Series B,73.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,small
+Wayfair,Retail,Post-IPO,1700.0,North America,3,2.670212765957447,0.1170212765957448,four_plus,large
+Avaya,Other,Post-IPO,700.0,North America,1,-0.36986301369863006,-1.0684931506849313,once,large
+Character.ai,AI,Series A,150.0,North America,1,-0.09090909090909083,0.36363636363636365,once,small
+Stash,Finance,Unknown,480.0,North America,2,2.7098765432098766,-1.0061728395061729,four_plus,large
+Flock Freight,Logistics,Series D,399.0,North America,2,-0.19999999999999996,-1.0,once,medium
+Atsu,Infrastructure,Unknown,1.0,North America,5,-0.4375,1.8125,once,tiny
+Truiloo,Security,Series D,474.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+Homeday,Real Estate,Unknown,71.0,Europe,2,-0.39473684210526305,-1.526315789473684,once,small
+Kueski,Finance,Series B,38.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Drata,Security,Series C,328.0,North America,1,-0.21818181818181825,-1.1636363636363636,once,medium
+Relativity,Legal,Private Equity,125.0,North America,3,-0.1428571428571428,0.4285714285714284,once,small
+Matterport,Data,Post-IPO,409.0,North America,2,0.7804878048780488,-0.9512195121951219,twice,medium
+Niantic,Consumer,Series D,770.0,North America,3,-0.3833333333333333,0.5166666666666666,once,large
+Flipkart,Retail,Acquired,12900.0,Asia,1,-0.32978723404255317,-1.8829787234042552,once,large
+Ahead,Healthcare,Unknown,9.0,North America,3,-0.26041666666666674,0.40625,once,tiny
+Upwork,Other,Post-IPO,168.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+Instructure,Education,Acquired,89.0,North America,5,-0.5277777777777777,2.138888888888889,once,small
+True Anomaly,Aerospace,Series B,158.0,North America,1,-0.125,-1.375,once,small
+Tesla,Transportation,Post-IPO,20200.0,North America,1,-0.45833333333333326,-1.9444444444444446,once,large
+Urban Sports Club,Fitness,Unknown,95.0,Europe,3,-0.3076923076923077,-0.7692307692307692,once,small
+ClickUp,Other,Series C,537.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,large
+Livspace,Retail,Series D,431.0,Asia,5,0.6702127659574468,2.117021276595745,twice,medium
+Indeed,HR,Acquired,5.0,North America,1,0.7941176470588236,-2.235294117647059,twice,tiny
+Jobcase,Recruiting,Private Equity,118.0,North America,5,-0.47058823529411775,1.3529411764705883,once,small
+Dark,Product,Seed,3.0,North America,5,-0.19047619047619047,2.0476190476190474,once,tiny
+Just Eat,Food,Acquired,129.0,Europe,0,0.6212121212121211,-2.909090909090909,twice,small
+Udaan,Retail,Unknown,1500.0,Asia,3,0.6702127659574468,0.1170212765957448,twice,large
+MyGate,Other,Series B,79.0,Asia,2,-0.36986301369863006,-0.06849315068493134,once,small
+Twilio,Other,Post-IPO,614.0,North America,3,0.6301369863013699,0.9315068493150687,twice,large
+Leafly,Retail,Post-IPO,71.0,North America,5,1.6702127659574468,2.117021276595745,thrice,small
+Envoy,HR,Series B,59.0,North America,5,-0.2058823529411764,1.7647058823529411,once,tiny
+Flipboard,Media,Unknown,235.0,North America,3,-0.4358974358974359,0.3333333333333335,once,medium
+SiriusXM,Media,Post-IPO,525.0,North America,2,0.5641025641025641,-0.6666666666666665,twice,large
+Weee!,Food,Series E,863.0,North America,3,-0.3787878787878789,0.09090909090909083,once,large
+HealthifyMe,Healthcare,Series D,130.0,Asia,1,-0.26041666666666674,-1.59375,once,small
+Blend,Finance,Post-IPO,665.0,North America,2,3.7098765432098766,-1.0061728395061729,four_plus,large
+LinkedIn,Recruiting,Acquired,154.0,North America,5,2.5294117647058822,1.3529411764705883,four_plus,small
+Faire,Retail,Series G,1700.0,North America,2,0.6702127659574468,-0.8829787234042552,twice,large
+Ribbon,Real Estate,Series C,405.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,medium
+KeepTruckin,Logistics,Series D,227.0,North America,5,-0.19999999999999996,2.0,once,medium
+Addepar,Finance,Series F,491.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+Syte,Retail,Series C,71.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,small
+Apartment List,Real Estate,Series D,169.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,small
+Polly,Finance,Series C,184.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Eigen Labs,Crypto,Unknown,234.0,North America,0,-0.26190476190476186,-2.2857142857142856,once,medium
+UpScalio,Retail,Series B,62.0,Asia,2,-0.32978723404255317,-0.8829787234042552,once,small
+Software AG,Data,Post-IPO,344.0,Europe,2,-0.2195121951219512,-0.9512195121951219,once,medium
+Licious,Food,Series F,490.0,Asia,1,-0.3787878787878789,-1.9090909090909092,once,large
+SoFi,Finance,Private Equity,2500.0,North America,5,-0.2901234567901234,1.9938271604938271,once,large
+Bustle Digital Group,Media,Series E,80.0,North America,5,-0.4358974358974359,2.3333333333333335,once,small
+Tomo,Finance,Series A,110.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+Eden / Managed By Q,Real Estate,Series B,40.0,North America,5,-0.39473684210526305,1.473684210526316,once,tiny
+Axios Media,Media,Acquired,57.0,North America,1,-0.4358974358974359,-1.6666666666666665,once,tiny
+CTO.ai,Infrastructure,Seed,7.0,North America,5,-0.4375,1.8125,once,tiny
+Gusto,HR,Series E,746.0,North America,2,-0.2058823529411764,-1.2352941176470589,once,large
+Substack,Media,Series B,82.0,North America,3,-0.4358974358974359,0.3333333333333335,once,small
+GrayMeta,Data,Unknown,7.0,North America,5,-0.2195121951219512,2.048780487804878,once,tiny
+Stripe,Finance,Series H,8700.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,large
+Gloat,HR,Series D,192.0,North America,2,-0.2058823529411764,-1.2352941176470589,once,medium
+Britishvolt,Transportation,Unknown,2400.0,Europe,2,-0.45833333333333326,-0.9444444444444446,once,large
+Lightspeed Commerce,Retail,Post-IPO,1200.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,large
+Getir,Food,Series E,1800.0,Europe,2,-0.3787878787878789,-0.9090909090909092,once,large
+Freshworks,Support,Post-IPO,484.0,North America,2,1.4705882352941178,-0.9411764705882355,thrice,large
+Thumbtack,Consumer,Series F,698.0,North America,5,0.6166666666666667,2.5166666666666666,twice,large
+Moglix,Retail,Series F,472.0,Asia,2,-0.32978723404255317,-0.8829787234042552,once,large
+OneWeb,Aerospace,Unknown,3000.0,Europe,5,-0.125,2.625,once,large
+Breathe,Healthcare,Series A,6.0,Asia,3,-0.26041666666666674,0.40625,once,tiny
+Micron,Hardware,Post-IPO,50.0,North America,2,0.8333333333333333,0.6666666666666667,twice,tiny
+Hootsuite,Marketing,Series C,300.0,North America,3,1.7142857142857142,-0.18181818181818166,thrice,medium
+Funding Societies,Finance,Series B,42.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,tiny
+ZestMoney,Finance,Series C,120.0,Asia,2,0.7098765432098766,-1.0061728395061729,twice,small
+Koo,Consumer,Series B,50.0,Asia,2,-0.3833333333333333,-0.4833333333333334,once,tiny
+Chegg,Education,Post-IPO,227.0,North America,1,3.4722222222222223,-1.8611111111111112,four_plus,medium
+Zendesk,Support,Acquired,85.0,North America,2,0.47058823529411775,-0.9411764705882355,twice,small
+GoCardless,Finance,Series G,529.0,Europe,2,-0.2901234567901234,-1.0061728395061729,once,large
+ManoMano,Retail,Series F,705.0,Europe,2,-0.32978723404255317,-0.8829787234042552,once,large
+eBay,Retail,Post-IPO,1200.0,North America,2,0.6702127659574468,-0.8829787234042552,twice,large
+ResearchGate,Other,Series D,87.0,Europe,3,-0.36986301369863006,0.9315068493150687,once,small
+The Predictive Index,HR,Acquired,65.0,North America,5,-0.2058823529411764,1.7647058823529411,once,small
+Clearbanc,Finance,Series B,119.0,North America,5,-0.2901234567901234,1.9938271604938271,once,small
+Lightricks,Consumer,Series D,335.0,Asia,3,1.6166666666666667,0.5166666666666666,thrice,medium
+#Paid,Marketing,Series B,21.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,tiny
+Flyhomes,Real Estate,Series C,310.0,North America,3,0.605263157894737,-0.5263157894736841,twice,medium
+Daily Harvest,Food,Series D,120.0,North America,3,-0.3787878787878789,0.09090909090909083,once,small
+PaisaBazaar,Finance,Series G,496.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,large
+Houzz,Consumer,Series E,613.0,North America,5,0.6166666666666667,2.5166666666666666,twice,large
+Iris Nova,Food,Seed,15.0,North America,5,-0.3787878787878789,2.090909090909091,once,tiny
+MyBambu,Finance,Unknown,15.0,North America,0,-0.2901234567901234,-3.006172839506173,once,tiny
+Huobi,Crypto,Unknown,2.0,Asia,3,0.7380952380952381,0.7142857142857144,twice,tiny
+Tufin,Security,Acquired,21.0,North America,3,-0.21818181818181825,0.8363636363636364,once,tiny
+Juniper Networks,Hardware,Post-IPO,39.0,North America,2,-0.16666666666666674,0.6666666666666667,once,tiny
+Procore,Construction,Unknown,649.0,North America,5,-0.5,1.0,once,large
+Soluto,Support,Acquired,18.0,Asia,3,-0.5294117647058822,0.0588235294117645,once,tiny
+Project44,Logistics,Unknown,817.0,North America,3,0.8,0.0,twice,large
+Stedi,Product,Series B,75.0,North America,3,-0.19047619047619047,0.04761904761904745,once,small
+Preply,Education,Series C,100.0,North America,3,-0.5277777777777777,0.13888888888888884,once,small
+Dropp,Retail,Unknown,2.0,Europe,2,-0.32978723404255317,-0.8829787234042552,once,tiny
+Amazon,Retail,Post-IPO,8100.0,North America,3,1.6702127659574468,0.1170212765957448,thrice,large
+Freightos,Logistics,Post-IPO,118.0,North America,2,-0.19999999999999996,-1.0,once,small
+Fireblocks,Crypto,Series E,1000.0,North America,1,0.7380952380952381,-1.2857142857142856,twice,large
+Casper,Retail,Post-IPO,339.0,North America,5,-0.32978723404255317,2.117021276595745,once,medium
+Pagaya,Finance,Post-IPO,2000.0,Asia,1,0.7098765432098766,-2.006172839506173,twice,large
+Citrix,Infrastructure,Acquired,20.0,North America,1,-0.4375,-2.1875,once,tiny
+Sourcegraph,Product,Series D,248.0,North America,3,-0.19047619047619047,0.04761904761904745,once,medium
+CrowdStreet,Real Estate,Series C,24.0,North America,5,-0.39473684210526305,1.473684210526316,once,tiny
+Glossier,Retail,Series E,266.0,North America,5,1.6702127659574468,2.117021276595745,thrice,medium
+N26,Finance,Series D,1700.0,Europe,5,0.7098765432098766,1.9938271604938271,twice,large
+Beyond Meat,Food,Post-IPO,122.0,North America,3,2.621212121212121,0.09090909090909083,four_plus,small
+RenoRun,Construction,Series B,163.0,North America,3,0.5,-1.0,twice,small
+Namogoo,Marketing,Series C,69.0,Asia,3,0.7142857142857142,-0.18181818181818166,twice,small
+Kaleidoscope,Finance,Series A,16.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,tiny
+Kape Technologies,Security,Post-IPO,188.0,Europe,2,-0.21818181818181825,-0.16363636363636358,once,medium
+VideoAmp,Marketing,Series C,456.0,North America,2,0.7142857142857142,-1.1818181818181817,twice,medium
+Loop,Finance,Series A,24.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,tiny
+Synctera,Finance,Series A,79.0,North America,1,-0.2901234567901234,-2.006172839506173,once,small
+Perimeter 81,Security,Series C,165.0,Asia,3,-0.21818181818181825,0.8363636363636364,once,small
+Redox,Healthcare,Series C,50.0,North America,5,-0.26041666666666674,2.40625,once,tiny
+Sandbox VR,Consumer,Series A,82.0,North America,5,-0.3833333333333333,2.5166666666666666,once,small
+Salto,Other,Series B,69.0,Asia,0,-0.36986301369863006,-2.0684931506849313,once,small
+Forma.ai,Sales,Series B,58.0,North America,3,-0.41666666666666674,0.5833333333333335,once,tiny
+Wordstream,Marketing,Acquired,28.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Basis Technologies,Marketing,Series B,52.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,tiny
+Bitpanda,Crypto,Series C,546.0,Europe,3,-0.26190476190476186,0.7142857142857144,once,large
+Compete,HR,Series A,17.0,Asia,3,-0.2058823529411764,-0.23529411764705888,once,tiny
+Swiggy,Food,Unknown,3600.0,Asia,5,3.621212121212121,2.090909090909091,four_plus,large
+Edgio,Infrastructure,Post-IPO,462.0,North America,2,1.5625,-1.1875,thrice,medium
+Lighter Capital,Finance,Series B,15.0,North America,5,0.7098765432098766,1.9938271604938271,twice,tiny
+10X Genomics,Healthcare,Post-IPO,242.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Magic Leap,Consumer,Series E,2600.0,North America,5,-0.3833333333333333,2.5166666666666666,once,large
+Fiverr,Other,Post-IPO,111.0,Asia,0,0.6301369863013699,-2.0684931506849313,twice,small
+Minute Media,Media,Series I,160.0,Europe,2,-0.4358974358974359,-0.6666666666666665,once,small
+TIFIN,Crypto,Series D,204.0,North America,3,-0.26190476190476186,0.7142857142857144,once,medium
+Lyst,Retail,Unknown,144.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,small
+Bluevine,Finance,Unknown,769.0,Asia,1,-0.2901234567901234,-2.006172839506173,once,large
+BeepKart,Retail,Series A,19.0,Asia,1,-0.32978723404255317,-1.8829787234042552,once,tiny
+Singularity 6,Other,Series B,49.0,North America,1,-0.36986301369863006,-1.0684931506849313,once,tiny
+Bird,Transportation,Post-IPO,783.0,North America,3,0.5416666666666667,0.05555555555555536,twice,large
+Take-Two,Consumer,Post-IPO,4100.0,North America,1,-0.3833333333333333,-1.4833333333333334,once,large
+Northvolt,Energy,Unknown,13800.0,Europe,1,0.7692307692307692,-0.6923076923076923,twice,large
+Chope,Food,Series E,50.0,Asia,3,-0.3787878787878789,0.09090909090909083,once,tiny
+Arrival,Transportation,Post-IPO,629.0,Europe,2,-0.45833333333333326,-0.9444444444444446,once,large
+Workable,Recruiting,Series C,84.0,North America,5,-0.47058823529411775,1.3529411764705883,once,small
+Lithic,Finance,Series C,115.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+SpotHero,Transportation,Series D,117.0,North America,5,-0.45833333333333326,2.0555555555555554,once,small
+New Relic,Infrastructure,Post-IPO,214.0,North America,3,1.5625,-0.1875,thrice,medium
+Bevi,Food,Series C,60.0,North America,5,-0.3787878787878789,2.090909090909091,once,tiny
+Usermind,Marketing,Series C,46.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Klook,Travel,Series D,521.0,Asia,5,-0.43333333333333335,1.2999999999999998,once,large
+Kabam,Consumer,Acquired,244.0,North America,3,-0.3833333333333333,0.5166666666666666,once,medium
+Armis,Security,Private Equity,537.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+GoPro,Consumer,Post-IPO,288.0,North America,1,0.6166666666666667,-1.4833333333333334,twice,medium
+Hims & Hers,Healthcare,Post-IPO,1200.0,North America,0,-0.26041666666666674,-2.59375,once,large
+Zeus Living,Real Estate,Series B,151.0,North America,5,1.605263157894737,1.473684210526316,thrice,small
+CNET,Media,Acquired,20.0,North America,2,-0.4358974358974359,-0.6666666666666665,once,tiny
+Incredible Health,Healthcare,Series A,15.0,North America,5,-0.26041666666666674,2.40625,once,tiny
+Drift,Marketing,Acquired,107.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,small
+GoTo Group,Transportation,Post-IPO,1300.0,Asia,3,-0.45833333333333326,0.05555555555555536,once,large
+Swyft,Logistics,Series A,20.0,North America,3,-0.19999999999999996,0.0,once,tiny
+LoopMe,Marketing,Unknown,32.0,Europe,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Koho,Finance,Series D,278.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Chime,Finance,Series G,2300.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,large
+CaptivateIQ,Sales,Series C,164.0,North America,3,-0.41666666666666674,0.5833333333333335,once,small
+AgentSync,Finance,Series B,111.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,small
+Aqgromalin,Food,Unknown,12.0,Asia,3,-0.3787878787878789,0.09090909090909083,once,tiny
+Illumina,Healthcare,Post-IPO,28.0,North America,3,-0.26041666666666674,0.40625,once,tiny
+Groupon,Retail,Post-IPO,1400.0,North America,3,0.6702127659574468,0.1170212765957448,twice,large
+Amperity,Marketing,Series D,187.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,medium
+Spin,Transportation,Acquired,8.0,North America,3,-0.45833333333333326,0.05555555555555536,once,tiny
+Microsoft,Other,Post-IPO,1.0,North America,0,2.6301369863013697,-2.0684931506849313,four_plus,tiny
+Transmit Security,Security,Series A,583.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+Butler Hospitality,Food,Series B,50.0,North America,3,-0.3787878787878789,0.09090909090909083,once,tiny
+Lev,Real Estate,Series B,114.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,small
+Zepz,Finance,Series E,700.0,Europe,2,1.7098765432098766,-1.0061728395061729,thrice,large
+Thoughtworks,Other,Post-IPO,748.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,large
+Electronic Arts,Consumer,Post-IPO,2.0,North America,2,0.6166666666666667,-0.4833333333333334,twice,tiny
+Zipcar,Transportation,Acquired,107.0,North America,5,-0.45833333333333326,2.0555555555555554,once,small
+Vee,HR,Seed,15.0,Asia,3,0.7941176470588236,-0.23529411764705888,twice,tiny
+ChargePoint,Manufacturing,Unknown,1400.0,North America,1,-0.19999999999999996,-0.19999999999999996,once,large
+Dukaan,Retail,Series A,17.0,Asia,2,-0.32978723404255317,-0.8829787234042552,once,tiny
+Lawgeex,Legal,Series C,41.0,Asia,3,-0.1428571428571428,0.4285714285714284,once,tiny
+Zenoti,Fitness,Series C,91.0,North America,5,-0.3076923076923077,1.2307692307692308,once,small
+SAP,Other,Post-IPO,1300.0,Europe,2,0.6301369863013699,-0.06849315068493134,twice,large
+Lattice,HR,Series C,328.0,North America,5,0.7941176470588236,1.7647058823529411,twice,medium
+Healthy.io,Healthcare,Series D,185.0,Asia,1,0.7395833333333333,-1.59375,twice,medium
+Reddit,Consumer,Series F,1300.0,North America,2,-0.3833333333333333,-0.4833333333333334,once,large
+Protocol Labs,Crypto,Unknown,10.0,North America,2,-0.26190476190476186,-0.2857142857142856,once,tiny
+Stitch Fix,Retail,Post-IPO,79.0,North America,3,0.6702127659574468,0.1170212765957448,twice,small
+Chingari,Media,Unknown,88.0,Asia,2,-0.4358974358974359,-0.6666666666666665,once,small
+WorkRamp,HR,Series C,67.0,North America,3,-0.2058823529411764,-0.23529411764705888,once,small
+Otonomo,Transportation,Post-IPO,231.0,Asia,3,-0.45833333333333326,0.05555555555555536,once,medium
+RealPage,Real Estate,Acquired,105.0,North America,1,-0.39473684210526305,-2.526315789473684,once,small
+Astronomer,Data,Series C,282.0,North America,2,0.7804878048780488,-0.9512195121951219,twice,medium
+Automation Anywhere,Other,Series B,840.0,North America,5,-0.36986301369863006,2.9315068493150687,once,large
+Kontist,Finance,Series B,53.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Postmates,Food,Acquired,763.0,North America,4,-0.3787878787878789,1.0909090909090908,once,large
+Calendly,Other,Series B,351.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,medium
+Melio,Finance,Series D,504.0,North America,1,-0.2901234567901234,-2.006172839506173,once,large
+CS Disco,Legal,Post-IPO,233.0,North America,2,-0.1428571428571428,-0.5714285714285716,once,medium
+Iron Ox,Food,Series C,103.0,North America,3,-0.3787878787878789,0.09090909090909083,once,small
+Sonos,Consumer,Post-IPO,455.2,North America,1,2.6166666666666667,-1.4833333333333334,four_plus,medium
+Oda,Food,Unknown,377.0,Europe,3,1.621212121212121,0.09090909090909083,thrice,medium
+Placer.ai,Data,Unknown,267.0,North America,0,-0.2195121951219512,-2.951219512195122,once,medium
+Impact.com,Sales,Private Equity,361.0,North America,1,-0.41666666666666674,-1.4166666666666665,once,medium
+Freshbooks,Finance,Series B,75.0,North America,5,-0.2901234567901234,1.9938271604938271,once,small
+Synapsica,Healthcare,Series A,4.0,Asia,3,-0.26041666666666674,0.40625,once,tiny
+Lime,Transportation,Series D,765.0,North America,5,-0.45833333333333326,2.0555555555555554,once,large
+Truepill,Healthcare,Series D,255.0,North America,3,0.7395833333333333,0.40625,twice,medium
+Shop101,Retail,Series C,19.0,Asia,5,-0.32978723404255317,2.117021276595745,once,tiny
+Wint Wealth,Finance,Series A,16.0,Asia,1,-0.2901234567901234,-2.006172839506173,once,tiny
+Rent the Runway,Retail,Post-IPO,526.0,North America,1,-0.32978723404255317,-1.8829787234042552,once,large
+Xentral,Product,Series B,94.0,Europe,3,-0.19047619047619047,0.04761904761904745,once,small
+Nori,Energy,Unknown,13.0,North America,2,-0.23076923076923084,0.3076923076923077,once,tiny
+Abra,Crypto,Series C,106.0,North America,3,-0.26190476190476186,0.7142857142857144,once,small
+Gemini,Crypto,Unknown,423.0,North America,3,0.7380952380952381,0.7142857142857144,twice,medium
+Byju's,Education,Private Equity,5500.0,Asia,1,0.4722222222222223,-1.8611111111111112,twice,large
+Sensibill,Finance,Series B,50.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Sidecar Health,Healthcare,Series C,163.0,North America,3,-0.26041666666666674,0.40625,once,small
+Figure,Crypto,Unknown,1500.0,North America,2,-0.26190476190476186,-0.2857142857142856,once,large
+Virgin Hyperloop,Transportation,Unknown,368.0,North America,3,-0.45833333333333326,0.05555555555555536,once,medium
+Back Market,Retail,Series E,1000.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,large
+DigitalOcean,Infrastructure,Post-IPO,491.0,North America,2,-0.4375,-1.1875,once,large
+Playdots,Consumer,Acquired,10.0,North America,3,-0.3833333333333333,0.5166666666666666,once,tiny
+Patreon,Media,Series D,413.0,North America,3,0.5641025641025641,0.3333333333333335,twice,medium
+Invitae,Healthcare,Post-IPO,2500.0,North America,2,-0.26041666666666674,-0.59375,once,large
+UiPath,Data,Post-IPO,2000.0,North America,3,0.7804878048780488,0.04878048780487809,twice,large
+Qumulo,Data,Series E,347.0,North America,3,-0.2195121951219512,0.04878048780487809,once,medium
+Bryter,Product,Series B,89.0,Europe,3,-0.19047619047619047,0.04761904761904745,once,small
+Kenko Health,Healthcare,Series A,14.0,Asia,2,0.7395833333333333,-0.59375,twice,tiny
+Ada Support,Support,Series B,60.0,North America,5,-0.5294117647058822,2.0588235294117645,once,tiny
+Deliveroo,Food,Post-IPO,1700.0,Europe,5,0.6212121212121211,2.090909090909091,twice,large
+DataRails,Finance,Series B,103.0,Asia,3,-0.2901234567901234,-0.006172839506172867,once,small
+Enjoy,Retail,Post-IPO,310.0,North America,3,-0.32978723404255317,0.1170212765957448,once,medium
+Hugging Face,AI,Series D,395.0,North America,0,-0.09090909090909083,-0.6363636363636364,once,medium
+Ocavu,Crypto,Series A,11.0,North America,3,-0.26190476190476186,0.7142857142857144,once,tiny
+Earnin,Finance,Series C,190.0,North America,5,-0.2901234567901234,1.9938271604938271,once,medium
+Reali,Real Estate,Series B,117.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,small
+Namely,HR,Series E,217.0,North America,5,-0.2058823529411764,1.7647058823529411,once,medium
+Gem,Recruiting,Series C,148.0,North America,3,-0.47058823529411775,-0.6470588235294117,once,small
+Salsify,Retail,Series D,452.0,North America,5,0.6702127659574468,2.117021276595745,twice,medium
+Noogata,AI,Series A,28.0,Asia,0,-0.09090909090909083,-0.6363636363636364,once,tiny
+Candy Digital,Crypto,Series A,100.0,North America,3,-0.26190476190476186,0.7142857142857144,once,small
+Zeplin,Product,Seed,1.0,North America,2,-0.19047619047619047,-0.9523809523809526,once,tiny
+Epic Games,Consumer,Unknown,6400.0,North America,2,-0.3833333333333333,-0.4833333333333334,once,large
+Varonis,Security,Post-IPO,30.0,North America,3,-0.21818181818181825,0.8363636363636364,once,tiny
+Waymo,Transportation,Subsidiary,5500.0,North America,2,-0.45833333333333326,-0.9444444444444446,once,large
+Next Insurance,Finance,Series E,881.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,large
+Chargebee,Finance,Series H,468.0,North America,2,0.7098765432098766,-1.0061728395061729,twice,medium
+Jiobit,Consumer,Unknown,12.0,North America,5,-0.3833333333333333,2.5166666666666666,once,tiny
+Liftoff,Marketing,Acquired,6.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+Nextdoor,Consumer,Post-IPO,736.0,North America,0,-0.3833333333333333,-2.4833333333333334,once,large
+Polygon,Crypto,Unknown,451.0,Asia,2,-0.26190476190476186,-0.2857142857142856,once,medium
+Deep Instinct,Security,Unknown,322.0,Asia,0,-0.21818181818181825,-2.1636363636363636,once,medium
+Canoo,Transportation,Post-IPO,300.0,North America,3,-0.45833333333333326,0.05555555555555536,once,medium
+Zenefits,HR,Series C,583.0,North America,5,-0.2058823529411764,1.7647058823529411,once,large
+Oriente,Finance,Series B,175.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,medium
+American Robotics,Other,Acquired,92.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+Dynamic Signal,HR,Series E,114.0,North America,5,-0.2058823529411764,1.7647058823529411,once,small
+BlockFi,Crypto,Series E,1000.0,North America,3,-0.26190476190476186,0.7142857142857144,once,large
+Baton,Transportation,Series A,13.0,North America,3,-0.45833333333333326,0.05555555555555536,once,tiny
+Bright Machines,Data,Unknown,250.0,Asia,3,-0.2195121951219512,0.04878048780487809,once,medium
+Freetrade,Finance,Unknown,133.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,small
+Community,Marketing,Unknown,40.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+AppsFlyer,Data,Unknown,293.0,North America,0,-0.2195121951219512,-2.951219512195122,once,medium
+Priceline,Travel,Acquired,77.0,North America,1,-0.43333333333333335,-2.7,once,small
+Pie Insurance,Finance,Series D,621.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+Digimarc,Other,Post-IPO,105.0,North America,0,-0.36986301369863006,-2.0684931506849313,once,small
+uShip,Logistics,Series D,69.0,North America,5,-0.19999999999999996,2.0,once,small
+Flytedesk,Marketing,Seed,4.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Fabric,Logistics,Series C,336.0,North America,3,0.8,0.0,twice,medium
+Rubius,Healthcare,Post-IPO,445.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Talent.com,Recruiting,Series B,150.0,North America,2,-0.47058823529411775,-1.6470588235294117,once,small
+Scoop,Transportation,Series C,95.0,North America,5,-0.45833333333333326,2.0555555555555554,once,small
+Cogito,Support,Series C,92.0,North America,5,-0.5294117647058822,2.0588235294117645,once,small
+BlackLine,Finance,Post-IPO,220.0,North America,2,0.7098765432098766,-1.0061728395061729,twice,medium
+Homie,Real Estate,Series B,35.0,North America,3,0.605263157894737,-0.5263157894736841,twice,tiny
+Lyft,Transportation,Post-IPO,4900.0,North America,1,3.541666666666667,-1.9444444444444446,four_plus,large
+Kayak / OpenTable,Travel,Acquired,229.0,North America,5,-0.43333333333333335,1.2999999999999998,once,medium
+Zume,Food,Unknown,423.0,North America,5,-0.3787878787878789,2.090909090909091,once,medium
+Sonatype,Security,Acquired,154.0,North America,2,-0.21818181818181825,-0.16363636363636358,once,small
+Sojern,Marketing,Series D,162.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+Coinbase,Crypto,Post-IPO,549.0,North America,3,0.7380952380952381,0.7142857142857144,twice,large
+SmartNews,Media,Series F,410.0,Asia,2,-0.4358974358974359,-0.6666666666666665,once,medium
+Ginkgo Bioworks,Healthcare,Post-IPO,1600.0,North America,1,-0.26041666666666674,-1.59375,once,large
+Twitch,Consumer,Acquired,35.0,North America,1,-0.3833333333333333,-1.4833333333333334,once,tiny
+Lemonade,Finance,Post-IPO,481.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+Snap,Consumer,Post-IPO,4900.0,North America,3,0.6166666666666667,0.5166666666666666,twice,large
+Zupee,Consumer,Series B,121.0,Asia,0,-0.3833333333333333,-2.4833333333333334,once,small
+Opendoor,Real Estate,Post-IPO,1900.0,North America,2,2.605263157894737,-1.526315789473684,four_plus,large
+OutSystems,Product,Series G,802.0,North America,1,-0.19047619047619047,-1.9523809523809526,once,large
+PartnerStack,Sales,Series B,36.0,North America,2,-0.41666666666666674,-0.4166666666666665,once,tiny
+Finleap Connect,Finance,Series A,22.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Mobile Premier League,Consumer,Series E,375.0,Asia,3,-0.3833333333333333,0.5166666666666666,once,medium
+RealSelf,Healthcare,Series B,42.0,North America,3,0.7395833333333333,0.40625,twice,tiny
+Help.com,Support,Seed,6.0,North America,5,-0.5294117647058822,2.0588235294117645,once,tiny
+TomTom,Other,Post-IPO,430.0,Europe,0,-0.36986301369863006,-2.0684931506849313,once,medium
+PerkSpot,HR,Private Equity,50.0,North America,5,-0.2058823529411764,1.7647058823529411,once,tiny
+Xerox,Hardware,Post-IPO,27200.0,North America,1,-0.16666666666666674,-0.33333333333333326,once,large
+StreamElements,Media,Series B,111.0,Asia,2,0.5641025641025641,-0.6666666666666665,twice,small
+Unison,Finance,Series B,40.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Evolve,Travel,Series F,224.0,North America,2,0.5666666666666667,-1.7000000000000002,twice,medium
+Point,Real Estate,Series C,149.0,North America,2,-0.39473684210526305,-1.526315789473684,once,small
+WayCool,Food,Unknown,363.0,Asia,2,-0.3787878787878789,-0.9090909090909092,once,medium
+Top Hat,Education,Series E,234.0,North America,2,1.4722222222222223,-0.8611111111111112,thrice,medium
+Loopio,Sales,Series A,11.0,North America,5,-0.41666666666666674,2.5833333333333335,once,tiny
+Nate,Retail,Series A,47.0,North America,3,-0.32978723404255317,0.1170212765957448,once,tiny
+AtoB,Finance,Series B,177.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Buy.com / Rakuten,Retail,Acquired,42.4,North America,5,-0.32978723404255317,2.117021276595745,once,tiny
+Coursera,Education,Post-IPO,458.0,North America,1,-0.5277777777777777,-1.8611111111111112,once,medium
+Waze,Transportation,Acquired,67.0,North America,5,-0.45833333333333326,2.0555555555555554,once,small
+Pocketmath,Marketing,Unknown,20.0,Asia,4,-0.2857142857142858,0.8181818181818183,once,tiny
+Introhive,Sales,Series C,125.0,North America,3,-0.41666666666666674,0.5833333333333335,once,small
+RiseUp,Finance,Series B,30.0,Asia,1,-0.2901234567901234,-2.006172839506173,once,tiny
+Outschool,Education,Series D,240.0,North America,3,0.4722222222222223,0.13888888888888884,twice,medium
+Optimizely,Marketing,Series D,251.2,North America,5,-0.2857142857142858,1.8181818181818183,once,medium
+Notarize,Legal,Series D,213.0,North America,3,-0.1428571428571428,0.4285714285714284,once,medium
+Deepgram,AI,Series B,86.0,North America,2,-0.09090909090909083,1.3636363636363638,once,small
+Astra,Aerospace,Unknown,100.0,North America,5,-0.125,2.625,once,small
+Brex,Finance,Series D,1500.0,North America,5,1.7098765432098766,1.9938271604938271,thrice,large
+Springbig,Sales,Post-IPO,32.0,North America,3,-0.41666666666666674,0.5833333333333335,once,tiny
+Perion,Marketing,Post-IPO,76.0,Asia,3,0.7142857142857142,-0.18181818181818166,twice,small
+Tilting Point,Consumer,Unknown,235.0,North America,2,-0.3833333333333333,-0.4833333333333334,once,medium
+Away,Retail,Series D,181.0,North America,2,0.6702127659574468,-0.8829787234042552,twice,medium
+GumGum,Marketing,Series D,58.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Ladder Life,Finance,Series C,94.0,North America,5,-0.2901234567901234,1.9938271604938271,once,small
+OutboundEngine,Marketing,Series C,48.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+GetYourGuide,Travel,Series E,656.0,Europe,5,-0.43333333333333335,1.2999999999999998,once,large
+Pipl,Security,Unknown,19.0,North America,3,-0.21818181818181825,0.8363636363636364,once,tiny
+Lazada Group ,Retail,Acquired,7200.0,Asia,1,-0.32978723404255317,-1.8829787234042552,once,large
+Paper,Education,Series D,389.0,North America,2,2.4722222222222223,-0.8611111111111112,four_plus,medium
+Mural,Product,Series C,192.0,North America,3,-0.19047619047619047,0.04761904761904745,once,medium
+Tekion,Other,Series D,435.0,Asia,2,-0.36986301369863006,-0.06849315068493134,once,medium
+Textio,Recruiting,Unknown,42.0,North America,2,1.5294117647058822,-1.6470588235294117,thrice,tiny
+Workhuman,HR,Unknown,131.0,Europe,2,-0.2058823529411764,-1.2352941176470589,once,small
+Kiwi.com,Travel,Unknown,107.0,Europe,1,-0.43333333333333335,-2.7,once,small
+DataRobot,Data,Series G,1000.0,North America,3,-0.2195121951219512,0.04878048780487809,once,large
+Care/of,Healthcare,Acquired,83.0,North America,1,-0.26041666666666674,-1.59375,once,small
+Atera,Other,Series B,102.0,Asia,1,-0.36986301369863006,-1.0684931506849313,once,small
+Rhumbix,Construction,Series B,35.0,North America,5,-0.5,1.0,once,tiny
+When I Work,HR,Series B,24.0,North America,5,-0.2058823529411764,1.7647058823529411,once,tiny
+Sage Therapeutics,Healthcare,Post-IPO,438.0,North America,5,-0.26041666666666674,2.40625,once,medium
+Vacasa,Travel,Post-IPO,834.0,North America,1,1.5666666666666667,-2.7,thrice,large
+Bench,Finance,Series B,109.0,North America,5,0.7098765432098766,1.9938271604938271,twice,small
+KoinWorks,Finance,Unknown,180.0,Asia,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Innovaccer,Healthcare,Series E,379.0,North America,3,0.7395833333333333,0.40625,twice,medium
+Pollen,Travel,Series B,238.0,Europe,5,0.5666666666666667,1.2999999999999998,twice,medium
+Slite,Other,Series A,15.0,Europe,2,-0.36986301369863006,-0.06849315068493134,once,tiny
+TCR2,Healthcare,Post-IPO,173.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Pavilion Data,Infrastructure,Series D,103.0,North America,3,-0.4375,-0.1875,once,small
+Thread,Retail,Acquired,40.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,tiny
+Cohere,AI,Series D,935.0,North America,1,-0.09090909090909083,0.36363636363636365,once,large
+Emotive,Marketing,Series B,78.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,small
+Sight Diagnostics,Healthcare,Series D,124.0,Asia,1,-0.26041666666666674,-1.59375,once,small
+Criteo,Marketing,Post-IPO,61.0,Europe,1,-0.2857142857142858,-2.1818181818181817,once,tiny
+CarGurus,Transportation,Post-IPO,1.0,North America,5,-0.45833333333333326,2.0555555555555554,once,tiny
+Numbrs,Finance,Series B,78.0,Europe,5,-0.2901234567901234,1.9938271604938271,once,small
+TaxBit,Crypto,Unknown,253.0,North America,2,-0.26190476190476186,-0.2857142857142856,once,medium
+TheSkimm,Media,Series C,28.0,North America,2,1.564102564102564,-0.6666666666666665,thrice,tiny
+Dragos,Security,Series D,364.0,North America,2,-0.21818181818181825,-0.16363636363636358,once,medium
+DraftKings,Consumer,Post-IPO,719.0,North America,2,-0.3833333333333333,-0.4833333333333334,once,large
+Sprinklr,Support,Post-IPO,429.0,North America,1,1.4705882352941178,-1.9411764705882355,thrice,medium
+Yojak,Construction,Seed,3.0,Asia,3,-0.5,-1.0,once,tiny
+Skyscanner,Travel,Acquired,197.2,Europe,5,-0.43333333333333335,1.2999999999999998,once,medium
+FullStory,Marketing,Unknown,197.0,North America,1,-0.2857142857142858,-2.1818181818181817,once,medium
+Bestow,Finance,Series C,137.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+AEye,Transportation,Post-IPO,314.0,North America,2,-0.45833333333333326,-0.9444444444444446,once,medium
+Happay,Finance,Acquired,21.0,Asia,2,-0.2901234567901234,-1.0061728395061729,once,tiny
+The Sill,Retail,Series A,7.0,North America,5,-0.32978723404255317,2.117021276595745,once,tiny
+The Athletic,Media,Series D,139.0,North America,5,-0.4358974358974359,2.3333333333333335,once,small
+8x8,Support,Post-IPO,253.0,North America,3,0.47058823529411775,0.0588235294117645,twice,medium
+Headspace,Healthcare,Unknown,216.0,North America,2,0.7395833333333333,-0.59375,twice,medium
+6sense,Sales,Series E,426.0,North America,3,-0.41666666666666674,0.5833333333333335,once,medium
+Aqua Security,Security,Series E,325.0,North America,1,1.7818181818181817,-1.1636363636363636,thrice,medium
+Jetty,Finance,Series B,40.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Brave Care,Healthcare,Series B,42.0,North America,3,-0.26041666666666674,0.40625,once,tiny
+iRobot,Consumer,Acquired,30.0,North America,3,2.6166666666666667,0.5166666666666666,four_plus,tiny
+Sophos,Security,Acquired,125.0,Europe,2,-0.21818181818181825,-0.16363636363636358,once,small
+Rapid,Finance,Series D,272.0,North America,2,0.7098765432098766,-1.0061728395061729,twice,medium
+Capitolis,Finance,Series D,281.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Albert,Finance,Series C,175.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+NYDIG,Crypto,Private Equity,1400.0,North America,3,-0.26190476190476186,0.7142857142857144,once,large
+MindBody,Fitness,Post-IPO,114.0,North America,5,0.6923076923076923,1.2307692307692308,twice,small
+GoodRx,Healthcare,Post-IPO,910.0,North America,3,-0.26041666666666674,0.40625,once,large
+iPrice Group,Retail,Unknown,26.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,tiny
+Klue,Sales,Series B,83.0,North America,0,-0.41666666666666674,-2.4166666666666665,once,small
+Oye Rickshaw,Transportation,Unknown,13.0,Asia,3,-0.45833333333333326,0.05555555555555536,once,tiny
+Captiv8,Marketing,Unknown,4.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,tiny
+Walnut,Sales,Series B,56.0,North America,1,-0.41666666666666674,-1.4166666666666665,once,tiny
+Airtable,Product,Series F,1400.0,North America,2,0.8095238095238095,-0.9523809523809526,twice,large
+SiFive,Hardware,Series F,365.0,North America,2,-0.16666666666666674,0.6666666666666667,once,medium
+Career Karma,Education,Series B,51.0,North America,3,-0.5277777777777777,0.13888888888888884,once,tiny
+NuScale Power,Energy,Post-IPO,470.0,North America,1,-0.23076923076923084,-0.6923076923076923,once,medium
+Personio,HR,Series E,724.0,Europe,1,0.7941176470588236,-2.235294117647059,twice,large
+Gorillas,Food,Series C,1300.0,Europe,3,-0.3787878787878789,0.09090909090909083,once,large
+Shopify,Retail,Post-IPO,122.0,North America,3,0.6702127659574468,0.1170212765957448,twice,small
+Zego,Finance,Series C,202.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Amount,Finance,Unknown,283.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,medium
+Convene,Real Estate,Series D,280.0,North America,5,-0.39473684210526305,1.473684210526316,once,medium
+Noom,Healthcare,Series F,657.0,North America,3,-0.26041666666666674,0.40625,once,large
+Argo AI,Transportation,Unknown,3600.0,North America,3,-0.45833333333333326,0.05555555555555536,once,large
+Happy Money,Finance,Series D,191.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Calm,Healthcare,Series C,218.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Nomad Health,Healthcare,Unknown,218.0,North America,2,-0.26041666666666674,-0.59375,once,medium
+Simple Feast,Food,Unknown,173.0,Europe,3,-0.3787878787878789,0.09090909090909083,once,medium
+Crayon,Marketing,Series A,16.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Highsnobiety,Media,Acquired,8.0,Europe,2,0.5641025641025641,-0.6666666666666665,twice,tiny
+Taboola,Marketing,Post-IPO,445.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,medium
+Otovo,Energy,Post-IPO,247.0,Europe,1,-0.23076923076923084,-0.6923076923076923,once,medium
+Verily,Healthcare,Subsidiary,3500.0,North America,2,-0.26041666666666674,-0.59375,once,large
+Veriff,Security,Series C,192.0,Europe,2,1.7818181818181817,-0.16363636363636358,thrice,medium
+Aurora Solar,Energy,Series D,523.0,North America,1,-0.23076923076923084,-0.6923076923076923,once,large
+Innoviz,Transportation,Post-IPO,547.0,Asia,1,-0.45833333333333326,-1.9444444444444446,once,large
+Blue Origin,Aerospace,Unknown,167.0,North America,0,-0.125,-2.375,once,small
+Kissflow,Other,Unknown,1.0,Asia,1,-0.36986301369863006,-1.0684931506849313,once,tiny
+Unstoppable Domains,Crypto,Series B,7.0,North America,3,-0.26190476190476186,0.7142857142857144,once,tiny
+Acko,Finance,Unknown,143.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,small
+Cart.com,Retail,Unknown,383.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,medium
+Avidbots,Hardware,Series C,106.0,North America,2,-0.16666666666666674,0.6666666666666667,once,small
+Panda Squad,Consumer,Seed,1.0,North America,5,-0.3833333333333333,2.5166666666666666,once,tiny
+StockX,Retail,Series C,690.0,North America,3,0.6702127659574468,0.1170212765957448,twice,large
+Yahoo,Consumer,Acquired,6.0,North America,2,-0.3833333333333333,-0.4833333333333334,once,tiny
+Zulily,Retail,Acquired,194.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,medium
+Inmobi,Marketing,Unknown,320.0,Asia,1,-0.2857142857142858,-2.1818181818181817,once,medium
+Maven Clinic,Healthcare,Series F,417.0,North America,1,-0.26041666666666674,-1.59375,once,medium
+Axonius,Security,Series E,865.0,North America,0,-0.21818181818181825,-2.1636363636363636,once,large
+Latch,Security,Post-IPO,342.0,North America,3,1.7818181818181817,0.8363636363636364,thrice,medium
+Teampay,Finance,Series B,79.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,small
+Tails.com,Retail,Series A,5.0,Europe,1,-0.32978723404255317,-1.8829787234042552,once,tiny
+Embark Trucks,Transportation,Post-IPO,317.0,North America,2,-0.45833333333333326,-0.9444444444444446,once,medium
+Carousell,Retail,Private Equity,375.0,Asia,1,0.6702127659574468,-1.8829787234042552,twice,medium
+PayJoy,Finance,Series B,71.0,North America,5,-0.2901234567901234,1.9938271604938271,once,small
+FNZ,Finance,Private Equity,1400.0,Europe,2,-0.2901234567901234,-1.0061728395061729,once,large
+Metromile,Finance,Acquired,510.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,large
+Gather,Consumer,Series B,76.0,North America,3,-0.3833333333333333,0.5166666666666666,once,small
+Consider.co,Other,Seed,5.0,North America,5,-0.36986301369863006,2.9315068493150687,once,tiny
+MasterClass,Education,Series E,461.0,North America,3,-0.5277777777777777,0.13888888888888884,once,medium
+ZipRecruiter,Recruiting,Post-IPO,769.0,North America,2,0.5294117647058822,-1.6470588235294117,twice,large
+Paxos,Crypto,Unknown,543.0,North America,1,-0.26190476190476186,-1.2857142857142856,once,large
+Welkin Health,Healthcare,Series B,29.0,North America,5,-0.26041666666666674,2.40625,once,tiny
+FarEye,Logistics,Series E,150.0,Asia,3,-0.19999999999999996,0.0,once,small
+Culture Trip,Media,Series B,102.0,Europe,5,-0.4358974358974359,2.3333333333333335,once,small
+Packable,Retail,Unknown,472.0,North America,3,-0.32978723404255317,0.1170212765957448,once,large
+B8ta,Retail,Series C,88.0,North America,5,-0.32978723404255317,2.117021276595745,once,small
+Navan,Finance,Unknown,2200.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+nCino,Finance,Post-IPO,1100.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+Zencity,Other,Unknown,51.0,Asia,3,-0.36986301369863006,0.9315068493150687,once,tiny
+Bishop Fox,Security,Series B,146.0,North America,2,-0.21818181818181825,-0.16363636363636358,once,small
+Flywheel Sports,Fitness,Acquired,120.0,North America,5,-0.3076923076923077,1.2307692307692308,once,small
+Bullish,Crypto,Unknown,300.0,Asia,3,-0.26190476190476186,0.7142857142857144,once,medium
+Cadre,Real Estate,Series C,133.0,North America,5,-0.39473684210526305,1.473684210526316,once,small
+Hologram,Infrastructure,Series B,82.0,North America,3,-0.4375,-0.1875,once,small
+JD.ID,Retail,Post-IPO,5100.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,large
+Tabnine,AI,Series B,57.0,Asia,0,-0.09090909090909083,-0.6363636363636364,once,tiny
+DoorDash,Food,Post-IPO,2500.0,North America,3,-0.3787878787878789,0.09090909090909083,once,large
+Pendo,Product,Series F,469.0,North America,3,0.8095238095238095,0.04761904761904745,twice,medium
+Fifth Season,Food,Series B,35.0,North America,3,-0.3787878787878789,0.09090909090909083,once,tiny
+NanoString Technologies,Healthcare,Post-IPO,826.0,North America,1,-0.26041666666666674,-1.59375,once,large
+TRM Labs,Crypto,Series B,149.0,North America,2,-0.26190476190476186,-0.2857142857142856,once,small
+Skillz,Consumer,Post-IPO,287.0,North America,3,-0.3833333333333333,0.5166666666666666,once,medium
+Replit,Product,Unknown,222.0,North America,1,-0.19047619047619047,-1.9523809523809526,once,medium
+Block,Finance,Post-IPO,150.0,North America,0,0.7098765432098766,-3.006172839506173,twice,small
+Everlane,Retail,Unknown,176.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,medium
+Aleph Farms,Food,Unknown,119.0,Asia,1,-0.3787878787878789,-1.9090909090909092,once,small
+Bridge Connector,Healthcare,Series B,45.0,North America,5,-0.26041666666666674,2.40625,once,tiny
+Wejo,Transportation,Post-IPO,376.0,Europe,2,-0.45833333333333326,-0.9444444444444446,once,medium
+MariaDB,Data,Post-IPO,272.0,North America,2,-0.2195121951219512,-0.9512195121951219,once,medium
+Bullhorn,Sales,Acquired,32.0,North America,2,-0.41666666666666674,-0.4166666666666665,once,tiny
+Hippo Insurance,Finance,Post-IPO,1300.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,large
+Loom,Product,Series C,203.0,North America,3,0.8095238095238095,0.04761904761904745,twice,medium
+Akamai,Security,Post-IPO,35.0,North America,2,0.7818181818181817,-0.16363636363636358,twice,tiny
+Better.com,Real Estate,Unknown,905.0,North America,3,0.605263157894737,-0.5263157894736841,twice,large
+Citrine Informatics,Data,Series C,64.0,North America,2,-0.2195121951219512,-0.9512195121951219,once,small
+Bluprint,Education,Acquired,108.0,North America,5,-0.5277777777777777,2.138888888888889,once,small
+Docly,Healthcare,Seed,15.5,Europe,5,-0.26041666666666674,2.40625,once,tiny
+Quandoo,Food,Acquired,39.0,Europe,4,-0.3787878787878789,1.0909090909090908,once,tiny
+Pitch,Marketing,Series B,138.0,Europe,3,0.7142857142857142,-0.18181818181818166,twice,small
+Fate Therapeutics,Healthcare,Post-IPO,1200.0,North America,2,-0.26041666666666674,-0.59375,once,large
+FanClash,Consumer,Series B,50.0,Asia,2,-0.3833333333333333,-0.4833333333333334,once,tiny
+Tomorrow,Finance,Unknown,29.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Beam Benefits,Healthcare,Series E,168.0,North America,2,-0.26041666666666674,-0.59375,once,small
+FrontRow,Education,Series A,17.0,Asia,3,0.4722222222222223,0.13888888888888884,twice,tiny
+Mozilla,Consumer,Unknown,2.3,North America,5,0.6166666666666667,2.5166666666666666,twice,tiny
+Treehouse,Education,Series B,12.0,North America,4,-0.5277777777777777,1.1388888888888888,once,tiny
+Jama,Product,Unknown,233.0,North America,5,-0.19047619047619047,2.0476190476190474,once,medium
+ShopBack,Retail,Series F,355.0,Asia,1,-0.32978723404255317,-1.8829787234042552,once,medium
+NS8,Data,Series A,157.9,North America,5,-0.2195121951219512,2.048780487804878,once,small
+Instacart,Food,Post-IPO,2900.0,North America,1,-0.3787878787878789,-1.9090909090909092,once,large
+WeWork,Real Estate,Series H,19500.0,Asia,5,-0.39473684210526305,1.473684210526316,once,large
+Moovit,Transportation,Acquired,131.0,Asia,1,-0.45833333333333326,-1.9444444444444446,once,small
+App Annie,Data,Unknown,156.0,North America,5,-0.2195121951219512,2.048780487804878,once,small
+Carbon Health,Healthcare,Series D,522.0,North America,3,0.7395833333333333,0.40625,twice,large
+Storytel,Media,Post-IPO,312.0,Europe,3,1.564102564102564,0.3333333333333335,thrice,medium
+Chrono24,Retail,Series C,205.0,Europe,2,0.6702127659574468,-0.8829787234042552,twice,medium
+Olo,Food,Post-IPO,184.0,North America,2,-0.3787878787878789,-0.9090909090909092,once,medium
+Xiaohongshu,Consumer,Series E,917.0,Asia,3,-0.3833333333333333,0.5166666666666666,once,large
+ScaleFactor,Finance,Series C,103.0,North America,5,-0.2901234567901234,1.9938271604938271,once,small
+Chainalysis,Crypto,Series F,536.0,North America,2,0.7380952380952381,-0.2857142857142856,twice,large
+Dunzo,Food,Unknown,458.0,Asia,2,1.621212121212121,-0.9090909090909092,thrice,medium
+Zoom,Other,Post-IPO,276.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,medium
+Palantir,Data,Post-IPO,3000.0,North America,2,-0.2195121951219512,-0.9512195121951219,once,large
+Kitopi,Food,Series C,804.0,Asia,3,-0.3787878787878789,0.09090909090909083,once,large
+Flockjay,Education,Series A,14.0,North America,4,-0.5277777777777777,1.1388888888888888,once,tiny
+Avo,Food,Series B,45.0,Asia,3,-0.3787878787878789,0.09090909090909083,once,tiny
+NSO,Security,Seed,1.0,Asia,3,-0.21818181818181825,0.8363636363636364,once,tiny
+GoDaddy,Marketing,Post-IPO,800.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,large
+Zumper,Real Estate,Series D,178.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,medium
+Monzo,Finance,Series F,324.0,Europe,5,-0.2901234567901234,1.9938271604938271,once,medium
+GoHealth,Healthcare,Post-IPO,75.0,North America,3,-0.26041666666666674,0.40625,once,small
+BitOasis,Crypto,Series B,30.0,Asia,3,-0.26190476190476186,0.7142857142857144,once,tiny
+BioMarin,Healthcare,Post-IPO,585.0,North America,3,-0.26041666666666674,0.40625,once,large
+Salesloft,Sales,Acquired,245.0,North America,2,-0.41666666666666674,-0.4166666666666665,once,medium
+Minted,Retail,Series E,297.0,North America,5,-0.32978723404255317,2.117021276595745,once,medium
+Vroom,Transportation,Post-IPO,1300.0,North America,3,2.541666666666667,0.05555555555555536,four_plus,large
+EasyPost,Logistics,Series A,12.0,North America,5,-0.19999999999999996,2.0,once,tiny
+Bizzabo,Marketing,Series E,194.0,North America,3,0.7142857142857142,-0.18181818181818166,twice,medium
+Knock,Real Estate,Unknown,654.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,large
+Tonkean,Other,Series B,83.0,North America,3,-0.36986301369863006,0.9315068493150687,once,small
+Crypto.com,Crypto,Unknown,156.0,Asia,3,0.7380952380952381,0.7142857142857144,twice,small
+BlissClub,Retail,Series A,20.0,Asia,1,-0.32978723404255317,-1.8829787234042552,once,tiny
+Tome Biosciences,Healthcare,Series A,213.0,North America,1,-0.26041666666666674,-1.59375,once,medium
+People.ai,Marketing,Series C,100.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+PayScale,HR,Acquired,33.0,North America,2,-0.2058823529411764,-1.2352941176470589,once,tiny
+Fittr,Fitness,Series A,13.0,Asia,2,-0.3076923076923077,-1.7692307692307692,once,tiny
+Tamara Mellon,Retail,Series C,90.0,North America,5,-0.32978723404255317,2.117021276595745,once,small
+Ola,Transportation,Series J,5000.0,Asia,5,0.5416666666666667,2.0555555555555554,twice,large
+Smashing,Consumer,Seed,3.0,North America,0,-0.3833333333333333,-2.4833333333333334,once,tiny
+Pristyn Care,Healthcare,Series E,177.0,Asia,2,0.7395833333333333,-0.59375,twice,medium
+Workmotion,HR,Series B,76.0,Europe,3,-0.2058823529411764,-0.23529411764705888,once,small
+Infarm,Other,Series D,604.0,Europe,3,0.6301369863013699,0.9315068493150687,twice,large
+Boxed,Retail,Post-IPO,365.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,medium
+Ghost Autonomy,Transportation,Series E,247.0,North America,1,-0.45833333333333326,-1.9444444444444446,once,medium
+SchoolMint,Education,Acquired,8.0,North America,2,-0.5277777777777777,-0.8611111111111112,once,tiny
+Doma,Finance,Post-IPO,679.0,North America,3,1.7098765432098766,-0.006172839506172867,thrice,large
+Pear Therapeutics ,Healthcare,Post-IPO,409.0,North America,3,-0.26041666666666674,0.40625,once,medium
+The Grommet,Retail,Acquired,5.0,North America,3,-0.32978723404255317,0.1170212765957448,once,tiny
+Zebra Technologies,Manufacturing,Post-IPO,2000.0,North America,2,-0.19999999999999996,0.8,once,large
+Vesalius Therapeutics,Healthcare,Series B,75.0,North America,3,-0.26041666666666674,0.40625,once,small
+Mixpanel,Data,Series B,77.0,North America,5,-0.2195121951219512,2.048780487804878,once,small
+SirionLabs,Legal,Series D,171.0,North America,2,-0.1428571428571428,-0.5714285714285716,once,medium
+Enovix,Energy,Post-IPO,516.0,North America,1,-0.23076923076923084,-0.6923076923076923,once,large
+SIRCLO,Retail,Series B,92.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,small
+Humble Games,Media,Acquired,4.0,North America,1,-0.4358974358974359,-1.6666666666666665,once,tiny
+Lunchbox,Food,Series B,72.0,North America,3,-0.3787878787878789,0.09090909090909083,once,small
+Pomelo Fashion,Retail,Unknown,120.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,small
+Wave Sports and Entertainment,Media,Series B,65.0,North America,3,-0.4358974358974359,0.3333333333333335,once,small
+Redbox,Media,Acquired,51.0,North America,1,-0.4358974358974359,-1.6666666666666665,once,tiny
+ActiveFence,Security,Series B,100.0,North America,0,-0.21818181818181825,-2.1636363636363636,once,small
+REE Automotive,Transportation,Post-IPO,317.0,Asia,2,-0.45833333333333326,-0.9444444444444446,once,medium
+Wonderschool,Education,Series A,24.0,North America,5,-0.5277777777777777,2.138888888888889,once,tiny
+Lilium,Aerospace,Post-IPO,1400.0,Europe,1,-0.125,-1.375,once,large
+Careem,Transportation,Acquired,771.0,Asia,5,-0.45833333333333326,2.0555555555555554,once,large
+Bright Money,Finance,Series A,31.0,Asia,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Coterie Insurance,Finance,Series B,70.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+Kry,Healthcare,Series D,568.0,Europe,3,0.7395833333333333,0.40625,twice,large
+Klarna,Finance,Unknown,3700.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,large
+Hyperscience,Data,Series E,289.0,North America,3,-0.2195121951219512,0.04878048780487809,once,medium
+GoBolt,Logistics,Series C,178.0,North America,2,-0.19999999999999996,-1.0,once,medium
+Iflix,Consumer,Unknown,348.0,Asia,5,-0.3833333333333333,2.5166666666666666,once,medium
+Meesho,Retail,Series D,1100.0,Asia,2,0.6702127659574468,-0.8829787234042552,twice,large
+AlayaCare,Healthcare,Series D,293.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Divvy Homes,Real Estate,Series B,180.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,medium
+Descartes Labs,Data,Series B,58.0,North America,5,-0.2195121951219512,2.048780487804878,once,tiny
+MediaMath,Marketing,Private Equity,607.0,North America,5,-0.2857142857142858,1.8181818181818183,once,large
+Komodo Health,Healthcare,Series C,514.0,North America,5,0.7395833333333333,2.40625,twice,large
+Vendr,Other,Series B,216.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,medium
+Applied Material,Manufacturing,Post-IPO,2100.0,North America,0,-0.19999999999999996,-1.2,once,large
+Nuri,Finance,Series B,42.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Rover,Consumer,Series G,310.0,North America,5,-0.3833333333333333,2.5166666666666666,once,medium
+Lendis,Other,Series A,90.0,Europe,3,-0.36986301369863006,0.9315068493150687,once,small
+Zscaler,Security,Post-IPO,148.0,North America,2,-0.21818181818181825,-0.16363636363636358,once,small
+Juni,Finance,Unknown,281.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Aya,Finance,Seed,3.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Foxtrot,Food,Series C,166.0,North America,3,-0.3787878787878789,0.09090909090909083,once,small
+Netflix,Media,Post-IPO,121900.0,North America,3,0.5641025641025641,0.3333333333333335,twice,large
+WeTransfer,Other,Acquired,64.0,Europe,1,0.6301369863013699,-1.0684931506849313,twice,small
+Hubba,Retail,Series B,61.0,North America,4,-0.32978723404255317,1.1170212765957448,once,tiny
+Clinc,Support,Series B,59.0,North America,5,-0.5294117647058822,2.0588235294117645,once,tiny
+Equitybee,Finance,Series B,85.0,North America,2,0.7098765432098766,-1.0061728395061729,twice,small
+UIPath,Other,Post-IPO,2000.0,North America,1,-0.36986301369863006,-1.0684931506849313,once,large
+Exterro,Legal,Private Equity,100.0,North America,2,-0.1428571428571428,-0.5714285714285716,once,small
+Sauce Labs,Infrastructure,Unknown,151.0,North America,5,-0.4375,1.8125,once,small
+Discord,Consumer,Series H,995.0,North America,2,0.6166666666666667,-0.4833333333333334,twice,large
+Saks.com,Retail,Unknown,965.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,large
+Rows,Other,Series B,25.0,Europe,3,-0.36986301369863006,0.9315068493150687,once,tiny
+Eightfold AI,HR,Series E,396.0,North America,2,-0.2058823529411764,-1.2352941176470589,once,medium
+Audible,Media,Acquired,14.0,North America,1,-0.4358974358974359,-1.6666666666666665,once,tiny
+Branch Metrics,Marketing,Series E,367.0,North America,5,-0.2857142857142858,1.8181818181818183,once,medium
+TripAdvisor,Travel,Post-IPO,3.0,North America,5,0.5666666666666667,1.2999999999999998,twice,tiny
+Unacademy,Education,Series H,838.0,Asia,3,1.4722222222222223,0.13888888888888884,thrice,large
+Samsara,Logistics,Series F,530.0,North America,5,-0.19999999999999996,2.0,once,large
+AppFolio,Real Estate,Post-IPO,30.0,North America,2,-0.39473684210526305,-1.526315789473684,once,tiny
+Socure,Finance,Series E,646.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,large
+OpenWeb,Media,Series E,223.0,Asia,3,-0.4358974358974359,0.3333333333333335,once,medium
+OpenX,Marketing,Unknown,70.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+MessageBird,Other,Series C,1100.0,Europe,1,0.6301369863013699,-1.0684931506849313,twice,large
+Lacework,Security,Series D,1900.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+Okta,Security,Post-IPO,1200.0,North America,0,1.7818181818181817,-2.1636363636363636,thrice,large
+Cowbell,Finance,Series B,123.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,small
+AliExpress Russia,Retail,Acquired,60.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,tiny
+Fundbox,Finance,Series C,553.0,North America,5,0.7098765432098766,1.9938271604938271,twice,large
+Sweetgreen,Food,Series I,478.0,North America,5,-0.3787878787878789,2.090909090909091,once,large
+Recharge,Finance,Series B,277.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Inspirato,Travel,Post-IPO,179.0,North America,2,1.5666666666666667,-1.7000000000000002,thrice,medium
+Bolt.Earth,Energy,Series B,24.0,Asia,1,-0.23076923076923084,-0.6923076923076923,once,tiny
+Mejuri,Retail,Series B,28.0,North America,3,0.6702127659574468,0.1170212765957448,twice,tiny
+InSightec,Healthcare,Unknown,733.0,Asia,2,-0.26041666666666674,-0.59375,once,large
+Khoros,Sales,Private Equity,138.0,North America,3,-0.41666666666666674,0.5833333333333335,once,small
+ClassPass,Fitness,Series E,549.0,North America,5,-0.3076923076923077,1.2307692307692308,once,large
+Eatsy,Food,Seed,0.9755,Asia,5,-0.3787878787878789,2.090909090909091,once,tiny
+Cvent,Marketing,Acquired,146.0,North America,5,-0.2857142857142858,1.8181818181818183,once,small
+Reef,Transportation,Unknown,1500.0,North America,3,-0.45833333333333326,0.05555555555555536,once,large
+Torii,Other,Series B,65.0,Asia,2,-0.36986301369863006,-0.06849315068493134,once,small
+WanderJaunt,Travel,Series B,26.0,North America,3,0.5666666666666667,-0.7000000000000002,twice,tiny
+Malwarebytes,Security,Series B,80.0,North America,3,-0.21818181818181825,0.8363636363636364,once,small
+Shippo,Logistics,Series E,154.0,North America,3,-0.19999999999999996,0.0,once,small
+Automattic,Other,Series E,986.0,North America,0,-0.36986301369863006,-2.0684931506849313,once,large
+Pliops,Data,Series D,205.0,Asia,3,-0.2195121951219512,0.04878048780487809,once,medium
+Jamf,Other,Post-IPO,332.0,North America,0,-0.36986301369863006,-2.0684931506849313,once,medium
+Skybox Security,Security,Private Equity,335.0,North America,0,-0.21818181818181825,-2.1636363636363636,once,medium
+Clear,Finance,Series C,140.0,Asia,3,0.7098765432098766,-0.006172839506172867,twice,small
+MakeMyTrip,Travel,Post-IPO,548.0,Asia,5,0.5666666666666667,1.2999999999999998,twice,large
+Carta,Finance,Series E,447.0,North America,5,-0.2901234567901234,1.9938271604938271,once,medium
+Frontdesk,Travel,Unknown,26.0,North America,5,0.5666666666666667,1.2999999999999998,twice,tiny
+Vox Media,Media,Series F,307.0,North America,3,0.5641025641025641,0.3333333333333335,twice,medium
+Blockchain.com,Crypto,Series D,490.0,Europe,3,0.7380952380952381,0.7142857142857144,twice,large
+Quantcast,Marketing,Series C,65.0,North America,3,0.7142857142857142,-0.18181818181818166,twice,small
+RigUp,Energy,Series D,423.0,North America,5,-0.23076923076923084,3.3076923076923075,once,medium
+Cruise,Transportation,Acquired,15000.0,North America,5,1.5416666666666667,2.0555555555555554,thrice,large
+ConsenSys,Crypto,Series D,726.0,North America,0,2.738095238095238,-2.2857142857142856,four_plus,large
+Stack Overflow,Recruiting,Acquired,153.0,North America,5,0.5294117647058822,1.3529411764705883,twice,small
+Rivian,Transportation,Post-IPO,10700.0,North America,0,4.541666666666667,-2.9444444444444446,four_plus,large
+Foursquare,Marketing,Series G,390.0,North America,1,-0.2857142857142858,-2.1818181818181817,once,medium
+Affirm,Finance,Post-IPO,1500.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,large
+Revolut,Finance,Series D,837.0,Europe,5,-0.2901234567901234,1.9938271604938271,once,large
+LiveRamp,Marketing,Post-IPO,16.0,North America,0,-0.2857142857142858,-3.1818181818181817,once,tiny
+Sisense,Data,Series F,274.0,North America,2,1.7804878048780488,-0.9512195121951219,thrice,medium
+Green Labs,Food,Series C,214.0,Asia,2,-0.3787878787878789,-0.9090909090909092,once,medium
+LEAD,Education,Series E,166.0,Asia,3,-0.5277777777777777,0.13888888888888884,once,small
+Snappy,Marketing,Series C,104.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,small
+Celsius,Crypto,Series B,864.0,North America,3,-0.26190476190476186,0.7142857142857144,once,large
+Horizn Studios,Travel,Series B,30.0,Europe,5,-0.43333333333333335,1.2999999999999998,once,tiny
+Hubilo,Marketing,Series B,153.0,North America,3,0.7142857142857142,-0.18181818181818166,twice,small
+Fetch,Retail,Series E,581.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,large
+Uniphore,Support,Series E,620.0,North America,2,-0.5294117647058822,-0.9411764705882355,once,large
+Miro,Other,Series C,476.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,large
+PolicyGenius,Finance,Series E,286.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Shipsi,Retail,Seed,2.0,North America,5,-0.32978723404255317,2.117021276595745,once,tiny
+Wex,Finance,Post-IPO,400.0,North America,1,-0.2901234567901234,-2.006172839506173,once,medium
+TealBook,Other,Series B,73.0,North America,3,-0.36986301369863006,0.9315068493150687,once,small
+The RealReal,Retail,Post-IPO,356.0,North America,5,0.6702127659574468,2.117021276595745,twice,medium
+C2FO,Finance,Series H,537.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,large
+The Guild,Travel,Series B,36.0,North America,5,-0.43333333333333335,1.2999999999999998,once,tiny
+Center,Finance,Series C,102.0,North America,1,-0.2901234567901234,-2.006172839506173,once,small
+Pecan AI,Data,Series C,116.0,Asia,2,-0.2195121951219512,-0.9512195121951219,once,small
+Loftium,Real Estate,Series A,17.0,North America,5,-0.39473684210526305,1.473684210526316,once,tiny
+23andMe,Healthcare,Post-IPO,1100.0,North America,2,1.7395833333333333,-0.59375,thrice,large
+Kiavi,Real Estate,Series E,240.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,medium
+Triplebyte,Recruiting,Series B,48.0,North America,5,-0.47058823529411775,1.3529411764705883,once,tiny
+D2iQ,Infrastructure,Series D,247.0,North America,5,-0.4375,1.8125,once,medium
+Outbrain,Marketing,Post-IPO,394.0,North America,3,0.7142857142857142,-0.18181818181818166,twice,medium
+ThirdLove,Retail,Series B,68.0,North America,5,-0.32978723404255317,2.117021276595745,once,small
+Cityblock Health,Healthcare,Series D,891.0,North America,2,-0.26041666666666674,-0.59375,once,large
+SambaNova,AI,Series D,1100.0,North America,0,-0.09090909090909083,-0.6363636363636364,once,large
+Tickertape,Finance,Seed,5.0,Asia,2,-0.2901234567901234,-1.0061728395061729,once,tiny
+Forto,Logistics,Series D,593.0,Europe,3,-0.19999999999999996,0.0,once,large
+Sonder,Travel,Post-IPO,839.0,North America,3,2.5666666666666664,-0.7000000000000002,four_plus,large
+Checkout.com,Finance,Series D,1800.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,large
+Pipedrive,Sales,Private Equity,90.0,Europe,3,-0.41666666666666674,0.5833333333333335,once,small
+Vouch,Finance,Series C,159.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+Grab,Transportation,Post-IPO,16500.0,Asia,2,0.5416666666666667,-0.9444444444444446,twice,large
+Meta,Consumer,Post-IPO,26000.0,North America,0,0.6166666666666667,-2.4833333333333334,twice,large
+Porter,Logistics,Series F,357.0,Asia,0,-0.19999999999999996,-3.0,once,medium
+Domo,Data,Post-IPO,689.0,North America,5,-0.2195121951219512,2.048780487804878,once,large
+Freenome,Healthcare,Series E,1400.0,North America,1,-0.26041666666666674,-1.59375,once,large
+Incredibuild,Product,Acquired,35.0,Asia,2,0.8095238095238095,-0.9523809523809526,twice,tiny
+Amplero,Marketing,Series B,25.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Lending Club,Finance,Post-IPO,392.0,North America,5,1.7098765432098766,1.9938271604938271,thrice,medium
+ON,Retail,Unknown,81.0,North America,1,-0.32978723404255317,-1.8829787234042552,once,small
+Finite State,Security,Series B,49.0,North America,3,-0.21818181818181825,0.8363636363636364,once,tiny
+OpenText,Data,Post-IPO,1100.0,North America,1,-0.2195121951219512,-1.951219512195122,once,large
+IRL,Consumer,Series C,197.0,North America,3,-0.3833333333333333,0.5166666666666666,once,medium
+iCAD,Healthcare,Post-IPO,59.0,North America,2,-0.26041666666666674,-0.59375,once,tiny
+SoundHound,Other,Post-IPO,326.0,North America,3,0.6301369863013699,0.9315068493150687,twice,medium
+Earnix,Finance,Unknown,100.0,Asia,2,-0.2901234567901234,-1.0061728395061729,once,small
+Rhino,Real Estate,Unknown,133.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,small
+Unbounce,Marketing,Series A,39.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+TripleLift,Marketing,Acquired,16.0,North America,5,0.7142857142857142,1.8181818181818183,twice,tiny
+AlphaSense,Other,Series F,1400.0,North America,1,-0.36986301369863006,-1.0684931506849313,once,large
+Wish,Retail,Post-IPO,1600.0,North America,2,1.6702127659574468,-0.8829787234042552,thrice,large
+Cameo,Consumer,Unknown,165.0,North America,3,-0.3833333333333333,0.5166666666666666,once,small
+Flywire,Finance,Series E,263.0,North America,5,-0.2901234567901234,1.9938271604938271,once,medium
+Remote Year,Travel,Series B,17.0,North America,5,-0.43333333333333335,1.2999999999999998,once,tiny
+Briza,Finance,Series A,10.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Checkr,HR,Series D,679.0,North America,5,0.7941176470588236,1.7647058823529411,twice,large
+EquityZen,Finance,Series B,11.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Uberflip,Marketing,Series A,42.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+Kodiak Robotics,Transportation,Series A,40.0,North America,5,-0.45833333333333326,2.0555555555555554,once,tiny
+Lenovo,Hardware,Post-IPO,850.0,North America,0,-0.16666666666666674,-1.3333333333333333,once,large
+Luno,Crypto,Acquired,13.0,Europe,2,-0.26190476190476186,-0.2857142857142856,once,tiny
+BenchSci,Healthcare,Series D,164.0,North America,0,0.7395833333333333,-2.59375,twice,small
+Jimdo,Other,Unknown,28.0,Europe,3,-0.36986301369863006,0.9315068493150687,once,tiny
+Gro Intelligence,Food,Series B,118.0,North America,1,0.6212121212121211,-1.9090909090909092,twice,small
+AppLovin,Marketing,Post-IPO,1600.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,large
+Curve,Finance,Series C,182.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,medium
+Moss,Finance,Series B,150.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,small
+Identiq,Security,Series A,52.0,Asia,1,-0.21818181818181825,-1.1636363636363636,once,tiny
+Lightico,Finance,Series B,42.0,Asia,2,-0.2901234567901234,-1.0061728395061729,once,tiny
+FabHotels,Travel,Series B,48.0,Asia,5,-0.43333333333333335,1.2999999999999998,once,tiny
+Qualtrics,Other,Acquired,400.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,medium
+Mogo,Finance,Post-IPO,201.0,North America,5,-0.2901234567901234,1.9938271604938271,once,medium
+7Shifts,Food,Series C,131.0,North America,1,-0.3787878787878789,-1.9090909090909092,once,small
+SundaySky,Marketing,Series D,74.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,small
+Workday,HR,Post-IPO,230.0,North America,0,0.7941176470588236,-3.235294117647059,twice,medium
+D-ID,AI,Series B,48.0,Asia,0,-0.09090909090909083,-0.6363636363636364,once,tiny
+Bolt,Finance,Series E,1300.0,North America,3,0.7098765432098766,-0.006172839506172867,twice,large
+Cerebral,Healthcare,Series C,462.0,North America,2,0.7395833333333333,-0.59375,twice,medium
+Doximity,Healthcare,Post-IPO,82.0,North America,2,-0.26041666666666674,-0.59375,once,small
+Confluent,Data,Post-IPO,455.0,North America,2,-0.2195121951219512,-0.9512195121951219,once,medium
+PayPal,Finance,Post-IPO,216.0,North America,2,0.7098765432098766,-1.0061728395061729,twice,medium
+Planetly,Other,Acquired,5.0,Europe,3,-0.36986301369863006,0.9315068493150687,once,tiny
+Permutive,Marketing,Series C,105.0,Europe,3,0.7142857142857142,-0.18181818181818166,twice,small
+7shifts,Food,Series C,131.0,North America,2,-0.3787878787878789,-0.9090909090909092,once,small
+Teleport,Infrastructure,Series C,169.0,North America,3,-0.4375,-0.1875,once,small
+Coinsquare,Crypto,Unknown,98.0,North America,3,-0.26190476190476186,0.7142857142857144,once,small
+Monarch Tractor,Other,Unknown,214.0,North America,1,-0.36986301369863006,-1.0684931506849313,once,medium
+Gopuff,Food,Series H,3400.0,North America,3,1.621212121212121,0.09090909090909083,thrice,large
+OneTrust,Legal,Series B,926.0,North America,3,0.8571428571428572,0.4285714285714284,twice,large
+TytoCare,Healthcare,Series D,206.0,North America,2,0.7395833333333333,-0.59375,twice,medium
+Personetics,Support,Private Equity,178.0,North America,2,-0.5294117647058822,-0.9411764705882355,once,medium
+Eaze,Consumer,Series D,202.0,North America,1,-0.3833333333333333,-1.4833333333333334,once,medium
+CyCognito,Security,Series C,153.0,North America,3,-0.21818181818181825,0.8363636363636364,once,small
+OrCam,Healthcare,Unknown,86.0,Asia,1,1.7395833333333333,-1.59375,thrice,small
+Repertoire Immune Medicines,Healthcare,Series B,257.0,North America,3,-0.26041666666666674,0.40625,once,medium
+Voyage SMS,Marketing,Unknown,10.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+Mux,Infrastructure,Series D,173.0,North America,3,0.5625,-0.1875,twice,medium
+Niche,Education,Series C,44.0,North America,1,-0.5277777777777777,-1.8611111111111112,once,tiny
+Moxion Power,Energy,Unknown,124.0,North America,1,-0.23076923076923084,-0.6923076923076923,once,small
+Ericsson,Other,Post-IPO,663.0,Europe,2,-0.36986301369863006,-0.06849315068493134,once,large
+Blueground,Real Estate,Series B,77.0,North America,5,-0.39473684210526305,1.473684210526316,once,small
+Lucid Motors,Transportation,Post-IPO,8300.0,North America,1,0.5416666666666667,-1.9444444444444446,twice,large
+Remote,HR,Series C,496.0,North America,3,-0.2058823529411764,-0.23529411764705888,once,large
+FourKites,Logistics,Series D,201.0,North America,3,-0.19999999999999996,0.0,once,medium
+InfoSum,Security,Series B,88.0,Europe,3,-0.21818181818181825,0.8363636363636364,once,small
+JOKR,Food,Series B,430.0,North America,3,-0.3787878787878789,0.09090909090909083,once,medium
+Benevity,Other,Unknown,69.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,small
+VerSe Innovation,Media,Series J,1700.0,Asia,3,-0.4358974358974359,0.3333333333333335,once,large
+Asana,Other,Post-IPO,453.0,North America,3,-0.36986301369863006,0.9315068493150687,once,medium
+MFine,Healthcare,Series C,97.0,Asia,3,-0.26041666666666674,0.40625,once,small
+Bitso,Crypto,Series C,378.0,North America,3,-0.26190476190476186,0.7142857142857144,once,medium
+Western Digital,Hardware,Post-IPO,900.0,Asia,2,-0.16666666666666674,0.6666666666666667,once,large
+Ajaib,Finance,Unknown,245.0,Asia,3,-0.2901234567901234,-0.006172839506172867,once,medium
+eGym,Fitness,Series D,109.0,Europe,5,-0.3076923076923077,1.2307692307692308,once,small
+SQream,Data,Series B,77.0,North America,3,-0.2195121951219512,0.04878048780487809,once,small
+Antidote Health,Healthcare,Unknown,36.0,Asia,3,-0.26041666666666674,0.40625,once,tiny
+Deep Instict,Security,Unknown,322.0,North America,2,-0.21818181818181825,-0.16363636363636358,once,medium
+Stay Alfred,Travel,Series B,62.0,North America,5,-0.43333333333333335,1.2999999999999998,once,small
+Circle,Crypto,Private Equity,1100.0,North America,1,-0.26190476190476186,-1.2857142857142856,once,large
+Eventbrite,Consumer,Post-IPO,557.0,North America,1,1.6166666666666667,-1.4833333333333334,thrice,large
+Google,Consumer,Post-IPO,26.0,North America,2,-0.3833333333333333,-0.4833333333333334,once,tiny
+Plaid,Finance,Series D,734.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,large
+StellarAlgo,Data,Series A,16.0,North America,2,-0.2195121951219512,-0.9512195121951219,once,tiny
+LearnUpon,Education,Private Equity,56.0,Europe,2,-0.5277777777777777,-0.8611111111111112,once,tiny
+Starry,Other,Post-IPO,260.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,medium
+Loftsmart,Real Estate,Series A,18.0,North America,5,-0.39473684210526305,1.473684210526316,once,tiny
+Sunday,Finance,Series A,124.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,small
+Oportun,Finance,Post-IPO,766.0,North America,2,0.7098765432098766,-1.0061728395061729,twice,large
+Exotel,Support,Series D,87.0,Asia,2,-0.5294117647058822,-0.9411764705882355,once,small
+Homebot,Real Estate,Acquired,4.0,North America,3,-0.39473684210526305,-0.5263157894736841,once,tiny
+Olive AI,Healthcare,Series H,856.0,North America,2,-0.26041666666666674,-0.59375,once,large
+Hibob,HR,Series A,45.0,Asia,5,-0.2058823529411764,1.7647058823529411,once,tiny
+PayFit,HR,Series E,495.0,Europe,2,-0.2058823529411764,-1.2352941176470589,once,large
+ForeScout,Security,Acquired,125.0,Asia,2,-0.21818181818181825,-0.16363636363636358,once,small
+AvantStay,Travel,Private Equity,686.0,North America,3,-0.43333333333333335,-0.7000000000000002,once,large
+Stord,Logistics,Series D,325.0,North America,3,-0.19999999999999996,0.0,once,medium
+Smallcase,Finance,Series C,62.0,Asia,2,-0.2901234567901234,-1.0061728395061729,once,small
+Group Nine Media,Media,Unknown,190.0,North America,5,-0.4358974358974359,2.3333333333333335,once,medium
+Heroes,Retail,Unknown,265.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,medium
+Berlin Brands Group,Retail,Unknown,1000.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,large
+Splunk,Data,Post-IPO,2400.0,North America,5,1.7804878048780488,2.048780487804878,thrice,large
+LOOP,Finance,Series A,34.0,North America,1,-0.2901234567901234,-2.006172839506173,once,tiny
+Gong,Sales,Series E,583.0,North America,2,-0.41666666666666674,-0.4166666666666665,once,large
+Carvana,Transportation,Post-IPO,1600.0,North America,3,0.5416666666666667,0.05555555555555536,twice,large
+Industrious,Real Estate,Series D,222.0,North America,5,-0.39473684210526305,1.473684210526316,once,medium
+Flink,Food,Series B,1000.0,Europe,2,0.6212121212121211,-0.9090909090909092,twice,large
+Sema4,Healthcare,Post-IPO,791.0,North America,3,-0.26041666666666674,0.40625,once,large
+Airbnb,Travel,Private Equity,5400.0,North America,5,-0.43333333333333335,1.2999999999999998,once,large
+WHOOP,Fitness,Series F,404.0,North America,3,-0.3076923076923077,-0.7692307692307692,once,medium
+Taxfix,Finance,Series D,330.0,Europe,2,-0.2901234567901234,-1.0061728395061729,once,medium
+Stashaway,Finance,Series D,61.0,Asia,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Lever,Recruiting,Series C,72.0,North America,5,-0.47058823529411775,1.3529411764705883,once,small
+InvestCloud,Finance,Private Equity,54.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,tiny
+Anodot,Data,Series C,64.0,Asia,3,0.7804878048780488,0.04878048780487809,twice,small
+BharatAgri,Food,Series A,21.0,Asia,2,-0.3787878787878789,-0.9090909090909092,once,tiny
+Skedulo,HR,Series C,114.0,North America,3,-0.2058823529411764,-0.23529411764705888,once,small
+Code42,Data,Series B,137.5,North America,5,-0.2195121951219512,2.048780487804878,once,small
+Intercom,Support,Series D,240.0,North America,3,1.4705882352941178,0.0588235294117645,thrice,medium
+1stdibs,Retail,Series D,253.0,North America,5,-0.32978723404255317,2.117021276595745,once,medium
+Thimble,Finance,Series A,28.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+MoonPay,Crypto,Unknown,651.0,North America,1,-0.26190476190476186,-1.2857142857142856,once,large
+Boozt,Retail,Post-IPO,56.0,Europe,3,-0.32978723404255317,0.1170212765957448,once,tiny
+Bringg,Logistics,Series D,84.0,Asia,5,-0.19999999999999996,2.0,once,small
+TouchBistro,Food,Series E,224.0,North America,5,-0.3787878787878789,2.090909090909091,once,medium
+Grin,Marketing,Series B,145.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,small
+Studio,Education,Series B,50.0,North America,3,-0.5277777777777777,0.13888888888888884,once,tiny
+Revelate,Data,Series A,26.0,North America,3,-0.2195121951219512,0.04878048780487809,once,tiny
+Glitch,Product,Series A,30.0,North America,5,-0.19047619047619047,2.0476190476190474,once,tiny
+Ninja Van,Transportation,Series E,974.0,Asia,1,-0.45833333333333326,-1.9444444444444446,once,large
+Augury,Manufacturing,Series E,274.0,North America,2,0.8,0.8,twice,medium
+Twitter,Consumer,Post-IPO,12900.0,North America,2,0.6166666666666667,-0.4833333333333334,twice,large
+Impala,Travel,Series B,32.0,Europe,3,-0.43333333333333335,-0.7000000000000002,once,tiny
+Woven,HR,Series A,11.0,North America,3,-0.2058823529411764,-0.23529411764705888,once,tiny
+BuzzFeed,Media,Post-IPO,696.0,North America,2,0.5641025641025641,-0.6666666666666665,twice,large
+Ludeo,Consumer,Series A,42.0,North America,0,-0.3833333333333333,-2.4833333333333334,once,tiny
+Nutanix,Infrastructure,Post-IPO,1100.0,North America,3,-0.4375,-0.1875,once,large
+Vedantu,Education,Series E,292.0,Asia,3,0.4722222222222223,0.13888888888888884,twice,medium
+SynapseFI,Finance,Series B,50.0,North America,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Drip Capital,Finance,Series C,85.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,small
+Five9,Support,Post-IPO,862.0,North America,1,0.47058823529411775,-1.9411764705882355,twice,large
+TechTarget,Marketing,Post-IPO,115.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,small
+Q4,Other,Series C,91.0,North America,3,-0.36986301369863006,0.9315068493150687,once,small
+Artsy,Retail,Series D,100.0,North America,2,-0.32978723404255317,-0.8829787234042552,once,small
+Chia Network,Crypto,Series D,70.0,North America,2,-0.26190476190476186,-0.2857142857142856,once,small
+Hopin,Other,Series D,1000.0,Europe,3,0.6301369863013699,0.9315068493150687,twice,large
+Glovo,Food,Acquired,1200.0,Europe,2,-0.3787878787878789,-0.9090909090909092,once,large
+FreshBooks,Finance,Unknown,331.0,North America,2,-0.2901234567901234,-1.0061728395061729,once,medium
+Linkfire,Marketing,Seed,2.0,Europe,3,-0.2857142857142858,-0.18181818181818166,once,tiny
+Elinvar,Finance,Unknown,30.0,Europe,3,-0.2901234567901234,-0.006172839506172867,once,tiny
+Bonsai,Retail,Series A,27.0,North America,3,0.6702127659574468,0.1170212765957448,twice,tiny
+PatientPop,Healthcare,Series B,75.0,North America,5,-0.26041666666666674,2.40625,once,small
+InfluxData,Data,Series D,119.0,North America,3,-0.2195121951219512,0.04878048780487809,once,small
+HubSpot,Marketing,Post-IPO,100.0,North America,2,-0.2857142857142858,-1.1818181818181817,once,small
+Plum,Healthcare,Series A,20.0,Asia,3,-0.26041666666666674,0.40625,once,tiny
+Builder,Product,Series A,29.0,North America,5,-0.19047619047619047,2.0476190476190474,once,tiny
+Uber,Transportation,Post-IPO,24700.0,North America,5,2.541666666666667,2.0555555555555554,four_plus,large
+Instamojo,Finance,Unknown,8.0,Asia,5,-0.2901234567901234,1.9938271604938271,once,tiny
+Jump,Transportation,Acquired,11.0,North America,5,-0.45833333333333326,2.0555555555555554,once,tiny
+PubMatic,Marketing,Post-IPO,63.0,North America,1,-0.2857142857142858,-2.1818181818181817,once,small
+Plex,Media,Unknown,81.0,North America,2,-0.4358974358974359,-0.6666666666666665,once,small
+Cars24,Transportation,Series G,1300.0,Asia,3,-0.45833333333333326,0.05555555555555536,once,large
+Crossbeam,Sales,Series C,116.0,North America,2,-0.41666666666666674,-0.4166666666666665,once,small
+Picsart,Consumer,Series C,195.0,North America,3,-0.3833333333333333,0.5166666666666666,once,medium
+Bounce,Transportation,Series D,214.0,Asia,5,1.5416666666666667,2.0555555555555554,thrice,medium
+BookMyShow,Consumer,Unknown,224.0,Asia,5,-0.3833333333333333,2.5166666666666666,once,medium
+Zomato,Food,Series J,914.0,Asia,5,0.6212121212121211,2.090909090909091,twice,large
+SurveyMonkey,Marketing,Post-IPO,1100.0,North America,3,-0.2857142857142858,-0.18181818181818166,once,large
+Showpad,Marketing,Series D,159.0,Europe,1,0.7142857142857142,-2.1818181818181817,twice,small
+Fable,Other,Series A,12.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,tiny
+Parsable,HR,Series C,72.0,North America,5,-0.2058823529411764,1.7647058823529411,once,small
+Sorare,Crypto,Series B,739.0,North America,1,-0.26190476190476186,-1.2857142857142856,once,large
+Ridecell,Transportation,Series B,73.0,North America,5,-0.45833333333333326,2.0555555555555554,once,small
+Flexe,Logistics,Series D,263.0,North America,2,0.8,-1.0,twice,medium
+UPshow,Marketing,Series A,7.0,North America,5,-0.2857142857142858,1.8181818181818183,once,tiny
+Pluralsight,Education,Acquired,192.0,North America,3,-0.5277777777777777,0.13888888888888884,once,medium
+LeafLink,Other,Series C,379.0,North America,3,-0.36986301369863006,0.9315068493150687,once,medium
+Root Insurance,Finance,Post-IPO,527.0,North America,3,-0.2901234567901234,-0.006172839506172867,once,large
+Knotel,Real Estate,Series C,560.0,North America,5,0.605263157894737,1.473684210526316,twice,large
+Sana Benefits,HR,Series B,106.0,North America,2,-0.2058823529411764,-1.2352941176470589,once,small
+Ike,Transportation,Series A,52.0,North America,5,-0.45833333333333326,2.0555555555555554,once,tiny
+Titan Medical,Healthcare,Post-IPO,278.0,North America,2,-0.26041666666666674,-0.59375,once,medium
+Benchling,Other,Series F,411.0,North America,2,-0.36986301369863006,-0.06849315068493134,once,medium
+ServiceTitan,Sales,Series G,1100.0,North America,2,-0.41666666666666674,-0.4166666666666665,once,large
+Ula,Retail,Series B,140.0,Asia,3,-0.32978723404255317,0.1170212765957448,once,small
+OwnBackup,Security,Series E,507.0,North America,3,-0.21818181818181825,0.8363636363636364,once,large
+Roku,Media,Post-IPO,208.0,North America,2,1.564102564102564,-0.6666666666666665,thrice,medium
+Quanterix,Healthcare,Post-IPO,533.0,North America,3,-0.26041666666666674,0.40625,once,large
+Viasat,Other,Post-IPO,366.0,North America,2,0.6301369863013699,-0.06849315068493134,twice,medium
+LivePerson,Support,Post-IPO,42.0,North America,3,-0.5294117647058822,0.0588235294117645,once,tiny
+Ermetic,Security,Series B,97.0,North America,2,-0.21818181818181825,-0.16363636363636358,once,small
+Gojek,Transportation,Series F,4800.0,Asia,5,-0.45833333333333326,2.0555555555555554,once,large
